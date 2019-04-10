@@ -1,0 +1,1782 @@
+[
+  {
+    "title": "All things text mode",
+    "url": "https://changelog.com/podcast/340",
+    "link": "https://cdn.changelog.com/uploads/podcast/340/the-changelog-340.mp3"
+  },
+  {
+    "title": "Why smart engineers write bad code",
+    "url": "https://changelog.com/podcast/339",
+    "link": "https://cdn.changelog.com/uploads/podcast/339/the-changelog-339.mp3"
+  },
+  {
+    "title": "Funding OSS with Mozilla Open Source Support awards",
+    "url": "https://changelog.com/podcast/338",
+    "link": "https://cdn.changelog.com/uploads/podcast/338/the-changelog-338.mp3"
+  },
+  {
+    "title": "Homebrew! Part Deux",
+    "url": "https://changelog.com/podcast/337",
+    "link": "https://cdn.changelog.com/uploads/podcast/337/the-changelog-337.mp3"
+  },
+  {
+    "title": "Containerizing compute driven workloads with Singularity",
+    "url": "https://changelog.com/podcast/336",
+    "link": "https://cdn.changelog.com/uploads/podcast/336/the-changelog-336.mp3"
+  },
+  {
+    "title": "Enabling open code for science at NumFOCUS",
+    "url": "https://changelog.com/podcast/335",
+    "link": "https://cdn.changelog.com/uploads/podcast/335/the-changelog-335.mp3"
+  },
+  {
+    "title": "With great power comes great responsibility",
+    "url": "https://changelog.com/podcast/334",
+    "link": "https://cdn.changelog.com/uploads/podcast/334/the-changelog-334.mp3"
+  },
+  {
+    "title": "Tactical design advice for developers",
+    "url": "https://changelog.com/podcast/333",
+    "link": "https://cdn.changelog.com/uploads/podcast/333/the-changelog-333.mp3"
+  },
+  {
+    "title": "A UI framework without the framework",
+    "url": "https://changelog.com/podcast/332",
+    "link": "https://cdn.changelog.com/uploads/podcast/332/the-changelog-332.mp3"
+  },
+  {
+    "title": "GitHub Actions is the next big thing",
+    "url": "https://changelog.com/podcast/331",
+    "link": "https://cdn.changelog.com/uploads/podcast/331/the-changelog-331.mp3"
+  },
+  {
+    "title": "source{d} turns code into actionable insights",
+    "url": "https://changelog.com/podcast/330",
+    "link": "https://cdn.changelog.com/uploads/podcast/330/the-changelog-330.mp3"
+  },
+  {
+    "title": "Perspectives on Kubernetes and successful cloud platforms",
+    "url": "https://changelog.com/podcast/329",
+    "link": "https://cdn.changelog.com/uploads/podcast/329/the-changelog-329.mp3"
+  },
+  {
+    "title": "State of the \"log\" (2018)",
+    "url": "https://changelog.com/podcast/328",
+    "link": "https://cdn.changelog.com/uploads/podcast/328/the-changelog-328.mp3"
+  },
+  {
+    "title": "Untangle your GitHub notifications with Octobox",
+    "url": "https://changelog.com/podcast/327",
+    "link": "https://cdn.changelog.com/uploads/podcast/327/the-changelog-327.mp3"
+  },
+  {
+    "title": "The insider perspective on the event-stream compromise",
+    "url": "https://changelog.com/podcast/326",
+    "link": "https://cdn.changelog.com/uploads/podcast/326/the-changelog-326.mp3"
+  },
+  {
+    "title": "A good open source password manager? Inconceivable!",
+    "url": "https://changelog.com/podcast/325",
+    "link": "https://cdn.changelog.com/uploads/podcast/325/the-changelog-325.mp3"
+  },
+  {
+    "title": "Tidelift's mission is to pay open source maintainers",
+    "url": "https://changelog.com/podcast/324",
+    "link": "https://cdn.changelog.com/uploads/podcast/324/the-changelog-324.mp3"
+  },
+  {
+    "title": "The road to Brave 1.0 and BAT",
+    "url": "https://changelog.com/podcast/323",
+    "link": "https://cdn.changelog.com/uploads/podcast/323/the-changelog-323.mp3"
+  },
+  {
+    "title": "There and back again (Dgraph's tale)",
+    "url": "https://changelog.com/podcast/322",
+    "link": "https://cdn.changelog.com/uploads/podcast/322/the-changelog-322.mp3"
+  },
+  {
+    "title": "Drupal is a pretty big deal",
+    "url": "https://changelog.com/podcast/321",
+    "link": "https://cdn.changelog.com/uploads/podcast/321/the-changelog-321.mp3"
+  },
+  {
+    "title": "Venture capital meets commercial OSS",
+    "url": "https://changelog.com/podcast/320",
+    "link": "https://cdn.changelog.com/uploads/podcast/320/the-changelog-320.mp3"
+  },
+  {
+    "title": "Keepin' up with Elm",
+    "url": "https://changelog.com/podcast/319",
+    "link": "https://cdn.changelog.com/uploads/podcast/319/the-changelog-319.mp3"
+  },
+  {
+    "title": "BONUS \\u2013 Sustain Summit 2018",
+    "url": "https://changelog.com/podcast/bonus-sustainoss-2018",
+    "link": "https://cdn.changelog.com/uploads/podcast/bonus-sustainoss-2018/the-changelog-bonus-sustainoss-2018.mp3"
+  },
+  {
+    "title": "A call for kindness in open source",
+    "url": "https://changelog.com/podcast/318",
+    "link": "https://cdn.changelog.com/uploads/podcast/318/the-changelog-318.mp3"
+  },
+  {
+    "title": "#Hacktoberfest isn\\u2019t just about a free shirt",
+    "url": "https://changelog.com/podcast/317",
+    "link": "https://cdn.changelog.com/uploads/podcast/317/the-changelog-317.mp3"
+  },
+  {
+    "title": "REST easy, GraphQL is here [rebroadcast]",
+    "url": "https://changelog.com/podcast/316",
+    "link": "https://cdn.changelog.com/uploads/podcast/316/the-changelog-316.mp3"
+  },
+  {
+    "title": "Join the federation?! Mastodon awaits...",
+    "url": "https://changelog.com/podcast/315",
+    "link": "https://cdn.changelog.com/uploads/podcast/315/the-changelog-315.mp3"
+  },
+  {
+    "title": "Kubernetes brings all the Cloud Natives to the yard",
+    "url": "https://changelog.com/podcast/314",
+    "link": "https://cdn.changelog.com/uploads/podcast/314/the-changelog-314.mp3"
+  },
+  {
+    "title": "The first cloud native programming language",
+    "url": "https://changelog.com/podcast/313",
+    "link": "https://cdn.changelog.com/uploads/podcast/313/the-changelog-313.mp3"
+  },
+  {
+    "title": "Segment's transition back to a monorepo",
+    "url": "https://changelog.com/podcast/312",
+    "link": "https://cdn.changelog.com/uploads/podcast/312/the-changelog-312.mp3"
+  },
+  {
+    "title": "Istio service mesh and microservices",
+    "url": "https://changelog.com/podcast/311",
+    "link": "https://cdn.changelog.com/uploads/podcast/311/the-changelog-311.mp3"
+  },
+  {
+    "title": "Open sourcing the DEV community",
+    "url": "https://changelog.com/podcast/310",
+    "link": "https://cdn.changelog.com/uploads/podcast/310/the-changelog-310.mp3"
+  },
+  {
+    "title": "Rebuilding Exercism from the ground up",
+    "url": "https://changelog.com/podcast/309",
+    "link": "https://cdn.changelog.com/uploads/podcast/309/the-changelog-309.mp3"
+  },
+  {
+    "title": "Biases in AI, helping veterans get jobs in software, open science",
+    "url": "https://changelog.com/podcast/308",
+    "link": "https://cdn.changelog.com/uploads/podcast/308/the-changelog-308.mp3"
+  },
+  {
+    "title": "AWS Amplify and cloud-enabled apps",
+    "url": "https://changelog.com/podcast/307",
+    "link": "https://cdn.changelog.com/uploads/podcast/307/the-changelog-307.mp3"
+  },
+  {
+    "title": "The Great GatsbyJS",
+    "url": "https://changelog.com/podcast/306",
+    "link": "https://cdn.changelog.com/uploads/podcast/306/the-changelog-306.mp3"
+  },
+  {
+    "title": "Putting AI in a box at MachineBox [rebroadcast]",
+    "url": "https://changelog.com/podcast/305",
+    "link": "https://cdn.changelog.com/uploads/podcast/305/the-changelog-305.mp3"
+  },
+  {
+    "title": "The impact of AI at Microsoft",
+    "url": "https://changelog.com/podcast/304",
+    "link": "https://cdn.changelog.com/uploads/podcast/304/the-changelog-304.mp3"
+  },
+  {
+    "title": "Programmable infrastructure",
+    "url": "https://changelog.com/podcast/303",
+    "link": "https://cdn.changelog.com/uploads/podcast/303/the-changelog-303.mp3"
+  },
+  {
+    "title": "Computer Science without a computer",
+    "url": "https://changelog.com/podcast/302",
+    "link": "https://cdn.changelog.com/uploads/podcast/302/the-changelog-302.mp3"
+  },
+  {
+    "title": "Python at Microsoft",
+    "url": "https://changelog.com/podcast/301",
+    "link": "https://cdn.changelog.com/uploads/podcast/301/the-changelog-301.mp3"
+  },
+  {
+    "title": "Corporate interests in open source and dev culture",
+    "url": "https://changelog.com/podcast/300",
+    "link": "https://cdn.changelog.com/uploads/podcast/300/the-changelog-300.mp3"
+  },
+  {
+    "title": "Curl turns 20, HTTP/2, QUIC",
+    "url": "https://changelog.com/podcast/299",
+    "link": "https://cdn.changelog.com/uploads/podcast/299/the-changelog-299.mp3"
+  },
+  {
+    "title": "The beginnings of Microsoft Azure",
+    "url": "https://changelog.com/podcast/298",
+    "link": "https://cdn.changelog.com/uploads/podcast/298/the-changelog-298.mp3"
+  },
+  {
+    "title": "Prisma and the GraphQL data layer",
+    "url": "https://changelog.com/podcast/297",
+    "link": "https://cdn.changelog.com/uploads/podcast/297/the-changelog-297.mp3"
+  },
+  {
+    "title": "Burnout, open source, Datasette",
+    "url": "https://changelog.com/podcast/296",
+    "link": "https://cdn.changelog.com/uploads/podcast/296/the-changelog-296.mp3"
+  },
+  {
+    "title": "Scaling all the things at Slack",
+    "url": "https://changelog.com/podcast/295",
+    "link": "https://cdn.changelog.com/uploads/podcast/295/the-changelog-295.mp3"
+  },
+  {
+    "title": "Code Cartoons, Rust, WebAssembly",
+    "url": "https://changelog.com/podcast/294",
+    "link": "https://cdn.changelog.com/uploads/podcast/294/the-changelog-294.mp3"
+  },
+  {
+    "title": "Ember four years later",
+    "url": "https://changelog.com/podcast/293",
+    "link": "https://cdn.changelog.com/uploads/podcast/293/the-changelog-293.mp3"
+  },
+  {
+    "title": "Elasticsearch and doubling down on \"open\"",
+    "url": "https://changelog.com/podcast/292",
+    "link": "https://cdn.changelog.com/uploads/podcast/292/the-changelog-292.mp3"
+  },
+  {
+    "title": "Winamp2 JS with Jordan Eldredge",
+    "url": "https://changelog.com/podcast/291",
+    "link": "https://cdn.changelog.com/uploads/podcast/291/the-changelog-291.mp3"
+  },
+  {
+    "title": "That's it. This is the finale!",
+    "url": "https://changelog.com/podcast/290",
+    "link": "https://cdn.changelog.com/uploads/podcast/290/the-changelog-290.mp3"
+  },
+  {
+    "title": "Automated dependency updates",
+    "url": "https://changelog.com/podcast/289",
+    "link": "https://cdn.changelog.com/uploads/podcast/289/the-changelog-289.mp3"
+  },
+  {
+    "title": "Live coding open source on Twitch",
+    "url": "https://changelog.com/podcast/288",
+    "link": "https://cdn.changelog.com/uploads/podcast/288/the-changelog-288.mp3"
+  },
+  {
+    "title": "Truffle framework and decentralized Ethereum apps",
+    "url": "https://changelog.com/podcast/287",
+    "link": "https://cdn.changelog.com/uploads/podcast/287/the-changelog-287.mp3"
+  },
+  {
+    "title": "JavaScript sprinkles in Basecamp turned Stimulus",
+    "url": "https://changelog.com/podcast/286",
+    "link": "https://cdn.changelog.com/uploads/podcast/286/the-changelog-286.mp3"
+  },
+  {
+    "title": "We couldn\\u2019t afford an Oculus so we built one!",
+    "url": "https://changelog.com/podcast/285",
+    "link": "https://cdn.changelog.com/uploads/podcast/285/the-changelog-285.mp3"
+  },
+  {
+    "title": "Moore's Law and High Performance Computing",
+    "url": "https://changelog.com/podcast/284",
+    "link": "https://cdn.changelog.com/uploads/podcast/284/the-changelog-284.mp3"
+  },
+  {
+    "title": "Devhints - TL;DR for Developer Documentation",
+    "url": "https://changelog.com/podcast/283",
+    "link": "https://cdn.changelog.com/uploads/podcast/283/the-changelog-283.mp3"
+  },
+  {
+    "title": "The impact and future of Kubernetes",
+    "url": "https://changelog.com/podcast/282",
+    "link": "https://cdn.changelog.com/uploads/podcast/282/the-changelog-282.mp3"
+  },
+  {
+    "title": "Gitcoin: sustaining open source with cryptocurrency",
+    "url": "https://changelog.com/podcast/281",
+    "link": "https://cdn.changelog.com/uploads/podcast/281/the-changelog-281.mp3"
+  },
+  {
+    "title": "Building a Secure Operating System with Rust",
+    "url": "https://changelog.com/podcast/280",
+    "link": "https://cdn.changelog.com/uploads/podcast/280/the-changelog-280.mp3"
+  },
+  {
+    "title": "Secure Messaging for Everyone with Wire",
+    "url": "https://changelog.com/podcast/279",
+    "link": "https://cdn.changelog.com/uploads/podcast/279/the-changelog-279.mp3"
+  },
+  {
+    "title": "Blockchains and Databases at OSCON",
+    "url": "https://changelog.com/podcast/278",
+    "link": "https://cdn.changelog.com/uploads/podcast/278/the-changelog-278.mp3"
+  },
+  {
+    "title": "The Story of Visual Studio Code with Julia Liuson, Chris Dias, and PJ Meyer",
+    "url": "https://changelog.com/podcast/277",
+    "link": "https://cdn.changelog.com/uploads/podcast/277/the-changelog-277.mp3"
+  },
+  {
+    "title": "The Cloud Native Computing Foundation with Dan Kohn",
+    "url": "https://changelog.com/podcast/276",
+    "link": "https://cdn.changelog.com/uploads/podcast/276/the-changelog-276.mp3"
+  },
+  {
+    "title": "The History of GNOME, Mono, and Xamarin with Miguel de Icaza",
+    "url": "https://changelog.com/podcast/275",
+    "link": "https://cdn.changelog.com/uploads/podcast/275/the-changelog-275.mp3"
+  },
+  {
+    "title": "Faktory and the future of background jobs",
+    "url": "https://changelog.com/podcast/274",
+    "link": "https://cdn.changelog.com/uploads/podcast/274/the-changelog-274.mp3"
+  },
+  {
+    "title": "Data Science at OSCON with Vida Williams and Michelle Casbon",
+    "url": "https://changelog.com/podcast/273",
+    "link": "https://cdn.changelog.com/uploads/podcast/273/the-changelog-273.mp3"
+  },
+  {
+    "title": "Functional CSS and Tachyons with Adam Morse",
+    "url": "https://changelog.com/podcast/272",
+    "link": "https://cdn.changelog.com/uploads/podcast/272/the-changelog-272.mp3"
+  },
+  {
+    "title": "My Roadmap to Become a Blockchain Engineer with Preethi Kasireddy",
+    "url": "https://changelog.com/podcast/271",
+    "link": "https://cdn.changelog.com/uploads/podcast/271/the-changelog-271.mp3"
+  },
+  {
+    "title": "Rails as a Day Job, Diesel on the Side with Sean Griffin",
+    "url": "https://changelog.com/podcast/270",
+    "link": "https://cdn.changelog.com/uploads/podcast/270/the-changelog-270.mp3"
+  },
+  {
+    "title": "Bisq, the Decentralized Bitcoin Exchange with Chris Beams",
+    "url": "https://changelog.com/podcast/269",
+    "link": "https://cdn.changelog.com/uploads/podcast/269/the-changelog-269.mp3"
+  },
+  {
+    "title": "Opera\\u00e7\\u00e3o Serenata de Amor (Artificial Intelligence, Data Science, Government Corruption \\ud83d\\ude31)",
+    "url": "https://changelog.com/podcast/268",
+    "link": "https://cdn.changelog.com/uploads/podcast/268/the-changelog-268.mp3"
+  },
+  {
+    "title": "Functional Programming with Eric Normand",
+    "url": "https://changelog.com/podcast/267",
+    "link": "https://cdn.changelog.com/uploads/podcast/267/the-changelog-267.mp3"
+  },
+  {
+    "title": "The Future of RethinkDB with Mike Glukhovsky",
+    "url": "https://changelog.com/podcast/266",
+    "link": "https://cdn.changelog.com/uploads/podcast/266/the-changelog-266.mp3"
+  },
+  {
+    "title": "The Kotlin Programming Language with Dmitry Jemerov",
+    "url": "https://changelog.com/podcast/265",
+    "link": "https://cdn.changelog.com/uploads/podcast/265/the-changelog-265.mp3"
+  },
+  {
+    "title": "Automating GitHub with Probot featuring Brandon Keepers and Bex Warner",
+    "url": "https://changelog.com/podcast/264",
+    "link": "https://cdn.changelog.com/uploads/podcast/264/the-changelog-264.mp3"
+  },
+  {
+    "title": "Conversations About Sustaining Open Source at Sustain 2017",
+    "url": "https://changelog.com/podcast/263",
+    "link": "https://cdn.changelog.com/uploads/podcast/263/the-changelog-263.mp3"
+  },
+  {
+    "title": "Community, Building Remote-first Teams, and Web Performance Inclusivity",
+    "url": "https://changelog.com/podcast/262",
+    "link": "https://cdn.changelog.com/uploads/podcast/262/the-changelog-262.mp3"
+  },
+  {
+    "title": "Building an Artificial Pancreas with Elixir and Nerves with Tim Mecklem",
+    "url": "https://changelog.com/podcast/261",
+    "link": "https://cdn.changelog.com/uploads/podcast/261/the-changelog-261.mp3"
+  },
+  {
+    "title": "You Are Not Google/Amazon/LinkedIn with Ozan Onay",
+    "url": "https://changelog.com/podcast/260",
+    "link": "https://cdn.changelog.com/uploads/podcast/260/the-changelog-260.mp3"
+  },
+  {
+    "title": "ANTHOLOGY \\u2014 The Future of Open Source at OSCON 2017",
+    "url": "https://changelog.com/podcast/259",
+    "link": "https://cdn.changelog.com/uploads/podcast/259/the-changelog-259.mp3"
+  },
+  {
+    "title": "10 Years of RabbitMQ with Karl Nilsson & Michael Klishin",
+    "url": "https://changelog.com/podcast/258",
+    "link": "https://cdn.changelog.com/uploads/podcast/258/the-changelog-258.mp3"
+  },
+  {
+    "title": "The Power of Wikis, the Problem with Social Networks, and the Promise of A.I. with Evan Prodromou",
+    "url": "https://changelog.com/podcast/257",
+    "link": "https://cdn.changelog.com/uploads/podcast/257/the-changelog-257.mp3"
+  },
+  {
+    "title": "Ubuntu Snaps and Bash on Windows Server with Dustin Kirkland",
+    "url": "https://changelog.com/podcast/256",
+    "link": "https://cdn.changelog.com/uploads/podcast/256/the-changelog-256.mp3"
+  },
+  {
+    "title": "Why is GraphQL so cool?",
+    "url": "https://changelog.com/podcast/255",
+    "link": "https://cdn.changelog.com/uploads/podcast/255/the-changelog-255.mp3"
+  },
+  {
+    "title": "Deploying Changelog.com with Gerhard Lazu",
+    "url": "https://changelog.com/podcast/254",
+    "link": "https://cdn.changelog.com/uploads/podcast/254/the-changelog-254.mp3"
+  },
+  {
+    "title": "The Serverless Revolution with Pam Selle",
+    "url": "https://changelog.com/podcast/253",
+    "link": "https://cdn.changelog.com/uploads/podcast/253/the-changelog-253.mp3"
+  },
+  {
+    "title": "GitHub's Open Source Survey (2017) with Frannie Zlotnick and Nadia Eghbal",
+    "url": "https://changelog.com/podcast/252",
+    "link": "https://cdn.changelog.com/uploads/podcast/252/the-changelog-252.mp3"
+  },
+  {
+    "title": "JAMstack, Netlify CMS, and 10x-ing Smashing Magazine with Matt Biilman and Chris Bach",
+    "url": "https://changelog.com/podcast/251",
+    "link": "https://cdn.changelog.com/uploads/podcast/251/the-changelog-251.mp3"
+  },
+  {
+    "title": "The backstory of Kubernetes with Tim Hockin and Aparna Sinha",
+    "url": "https://changelog.com/podcast/250",
+    "link": "https://cdn.changelog.com/uploads/podcast/250/the-changelog-250.mp3"
+  },
+  {
+    "title": "BONUS - Sustain Open Source Software with Justin Dorfman",
+    "url": "https://changelog.com/podcast/bonus-sustainoss",
+    "link": "https://cdn.changelog.com/uploads/podcast/bonus-sustainoss/the-changelog-bonus-sustainoss.mp3"
+  },
+  {
+    "title": "Open Source at Microsoft, Inclusion, Diversity, and OSCON with Scott Hanselman",
+    "url": "https://changelog.com/podcast/249",
+    "link": "https://cdn.changelog.com/uploads/podcast/249/the-changelog-249.mp3"
+  },
+  {
+    "title": "Open Source Lessons Learned with Zeno Rocha",
+    "url": "https://changelog.com/podcast/248",
+    "link": "https://cdn.changelog.com/uploads/podcast/248/the-changelog-248.mp3"
+  },
+  {
+    "title": "Firefox Debugger and DevTools with Jason Laster",
+    "url": "https://changelog.com/podcast/247",
+    "link": "https://cdn.changelog.com/uploads/podcast/247/the-changelog-247.mp3"
+  },
+  {
+    "title": "First-time contributors and maintainer balance",
+    "url": "https://changelog.com/podcast/246",
+    "link": "https://cdn.changelog.com/uploads/podcast/246/the-changelog-246.mp3"
+  },
+  {
+    "title": "Open Source at Google with Will Norris",
+    "url": "https://changelog.com/podcast/245",
+    "link": "https://cdn.changelog.com/uploads/podcast/245/the-changelog-245.mp3"
+  },
+  {
+    "title": "Learning JavaScript and Bringing People Together with Tracy Lee",
+    "url": "https://changelog.com/podcast/244",
+    "link": "https://cdn.changelog.com/uploads/podcast/244/the-changelog-244.mp3"
+  },
+  {
+    "title": "Let's Encrypt the Web with Jacob Hoffman-Andrews",
+    "url": "https://changelog.com/podcast/243",
+    "link": "https://cdn.changelog.com/uploads/podcast/243/the-changelog-243.mp3"
+  },
+  {
+    "title": "The Burden of Open Source with James Long",
+    "url": "https://changelog.com/podcast/242",
+    "link": "https://cdn.changelog.com/uploads/podcast/242/the-changelog-242.mp3"
+  },
+  {
+    "title": "The Story of Atom with Nathan Sobo",
+    "url": "https://changelog.com/podcast/241",
+    "link": "https://cdn.changelog.com/uploads/podcast/241/the-changelog-241.mp3"
+  },
+  {
+    "title": "Feedbin and RSS resurgence",
+    "url": "https://changelog.com/podcast/240",
+    "link": "https://cdn.changelog.com/uploads/podcast/240/the-changelog-240.mp3"
+  },
+  {
+    "title": "Managing Secrets Using Vault with Seth Vargo",
+    "url": "https://changelog.com/podcast/239",
+    "link": "https://cdn.changelog.com/uploads/podcast/239/the-changelog-239.mp3"
+  },
+  {
+    "title": "ANTHOLOGY \\u2013 Hacker Stories From OSCON and All Things Open with Karen Sandler, Rachel Nabors, and Jono Bacon",
+    "url": "https://changelog.com/podcast/238",
+    "link": "https://cdn.changelog.com/uploads/podcast/238/the-changelog-238.mp3"
+  },
+  {
+    "title": "Reproducible Builds and Secure Software with Chris Lamb",
+    "url": "https://changelog.com/podcast/237",
+    "link": "https://cdn.changelog.com/uploads/podcast/237/the-changelog-237.mp3"
+  },
+  {
+    "title": "GunDB, Venture Backed and Decentralized with Mark Nadal",
+    "url": "https://changelog.com/podcast/236",
+    "link": "https://cdn.changelog.com/uploads/podcast/236/the-changelog-236.mp3"
+  },
+  {
+    "title": "ANTHOLOGY \\u2013 Hacker Stories From OSCON, All Things Open, and Node Interactive with Giovanni Caligaris, Stu Keroff, and Shiya Luo",
+    "url": "https://changelog.com/podcast/235",
+    "link": "https://cdn.changelog.com/uploads/podcast/235/the-changelog-235.mp3"
+  },
+  {
+    "title": "Open Collective and funding open source with Pia Mancini",
+    "url": "https://changelog.com/podcast/234",
+    "link": "https://cdn.changelog.com/uploads/podcast/234/the-changelog-234.mp3"
+  },
+  {
+    "title": "Webpack with Sean Larkin",
+    "url": "https://changelog.com/podcast/233",
+    "link": "https://cdn.changelog.com/uploads/podcast/233/the-changelog-233.mp3"
+  },
+  {
+    "title": "Homebrew and Swift with Max Howell",
+    "url": "https://changelog.com/podcast/232",
+    "link": "https://cdn.changelog.com/uploads/podcast/232/the-changelog-232.mp3"
+  },
+  {
+    "title": "HTTP/2 in Node.js Core with James Snell",
+    "url": "https://changelog.com/podcast/231",
+    "link": "https://cdn.changelog.com/uploads/podcast/231/the-changelog-231.mp3"
+  },
+  {
+    "title": "18F and OSS in the U.S. Federal Government with Hillary Hartley and Aidan Feldman",
+    "url": "https://changelog.com/podcast/230",
+    "link": "https://cdn.changelog.com/uploads/podcast/230/the-changelog-230.mp3"
+  },
+  {
+    "title": "Python, Django, and Channels with Andrew Godwin",
+    "url": "https://changelog.com/podcast/229",
+    "link": "https://cdn.changelog.com/uploads/podcast/229/the-changelog-229.mp3"
+  },
+  {
+    "title": "Servo and Rust with Jack Moffitt",
+    "url": "https://changelog.com/podcast/228",
+    "link": "https://cdn.changelog.com/uploads/podcast/228/the-changelog-228.mp3"
+  },
+  {
+    "title": "Mad Science, WebTorrent, & WebRTC with Feross Aboukhadijeh",
+    "url": "https://changelog.com/podcast/227",
+    "link": "https://cdn.changelog.com/uploads/podcast/227/the-changelog-227.mp3"
+  },
+  {
+    "title": "The Road to Font Awesome 5 with Dave Gandy",
+    "url": "https://changelog.com/podcast/226",
+    "link": "https://cdn.changelog.com/uploads/podcast/226/the-changelog-226.mp3"
+  },
+  {
+    "title": "99 Practical Bottles of OOP with Sandi Metz",
+    "url": "https://changelog.com/podcast/225",
+    "link": "https://cdn.changelog.com/uploads/podcast/225/the-changelog-225.mp3"
+  },
+  {
+    "title": ".NET Core and Microsoft's Shift to Open Source with Bertrand Le Roy",
+    "url": "https://changelog.com/podcast/224",
+    "link": "https://cdn.changelog.com/uploads/podcast/224/the-changelog-224.mp3"
+  },
+  {
+    "title": "Homebrew and package management",
+    "url": "https://changelog.com/podcast/223",
+    "link": "https://cdn.changelog.com/uploads/podcast/223/the-changelog-223.mp3"
+  },
+  {
+    "title": "Ethereum and Cryptocurrency with Gavin Wood",
+    "url": "https://changelog.com/podcast/222",
+    "link": "https://cdn.changelog.com/uploads/podcast/222/the-changelog-222.mp3"
+  },
+  {
+    "title": "How We Got Here with Cory Doctorow",
+    "url": "https://changelog.com/podcast/221",
+    "link": "https://cdn.changelog.com/uploads/podcast/221/the-changelog-221.mp3"
+  },
+  {
+    "title": "GitLab's Master Plan with Sid Sijbrandij",
+    "url": "https://changelog.com/podcast/220",
+    "link": "https://cdn.changelog.com/uploads/podcast/220/the-changelog-220.mp3"
+  },
+  {
+    "title": "TensorFlow and Deep Learning with Eli Bixby",
+    "url": "https://changelog.com/podcast/219",
+    "link": "https://cdn.changelog.com/uploads/podcast/219/the-changelog-219.mp3"
+  },
+  {
+    "title": "Elm and Functional Programming with Evan Czaplicki and Richard Feldman",
+    "url": "https://changelog.com/podcast/218",
+    "link": "https://cdn.changelog.com/uploads/podcast/218/the-changelog-218.mp3"
+  },
+  {
+    "title": "Sourcegraph the 'Google for Code' with Beyang Liu",
+    "url": "https://changelog.com/podcast/217",
+    "link": "https://cdn.changelog.com/uploads/podcast/217/the-changelog-217.mp3"
+  },
+  {
+    "title": "GitHub's Electron With Zeke Sikelianos",
+    "url": "https://changelog.com/podcast/216",
+    "link": "https://cdn.changelog.com/uploads/podcast/216/the-changelog-216.mp3"
+  },
+  {
+    "title": "Best Practices Badge from Core Infrastructure Initiative  with David A. Wheeler",
+    "url": "https://changelog.com/podcast/215",
+    "link": "https://cdn.changelog.com/uploads/podcast/215/the-changelog-215.mp3"
+  },
+  {
+    "title": "Libscore, Velocity.js, and Hacking with Julian Shapiro",
+    "url": "https://changelog.com/podcast/214",
+    "link": "https://cdn.changelog.com/uploads/podcast/214/the-changelog-214.mp3"
+  },
+  {
+    "title": "ZEIT, HyperTerm, and now with Guillermo Rauch",
+    "url": "https://changelog.com/podcast/213",
+    "link": "https://cdn.changelog.com/uploads/podcast/213/the-changelog-213.mp3"
+  },
+  {
+    "title": "SiteSpeed.io and Performance with Peter Hedenskog",
+    "url": "https://changelog.com/podcast/212",
+    "link": "https://cdn.changelog.com/uploads/podcast/212/the-changelog-212.mp3"
+  },
+  {
+    "title": "Open Source at Facebook with James Pearce",
+    "url": "https://changelog.com/podcast/211",
+    "link": "https://cdn.changelog.com/uploads/podcast/211/the-changelog-211.mp3"
+  },
+  {
+    "title": "ngrok and Go with Alan Shreve",
+    "url": "https://changelog.com/podcast/210",
+    "link": "https://cdn.changelog.com/uploads/podcast/210/the-changelog-210.mp3"
+  },
+  {
+    "title": "GitHub and Google on Public Datasets & Google BigQuery",
+    "url": "https://changelog.com/podcast/209",
+    "link": "https://cdn.changelog.com/uploads/podcast/209/the-changelog-209.mp3"
+  },
+  {
+    "title": "Ecto 2 and Phoenix Presence with Jos\\u00e9 Valim and Chris McCord",
+    "url": "https://changelog.com/podcast/208",
+    "link": "https://cdn.changelog.com/uploads/podcast/208/the-changelog-208.mp3"
+  },
+  {
+    "title": "Ubuntu Everywhere with Dustin Kirkland",
+    "url": "https://changelog.com/podcast/207",
+    "link": "https://cdn.changelog.com/uploads/podcast/207/the-changelog-207.mp3"
+  },
+  {
+    "title": "The Advantages of Being a Blind Programmer with Parham Doustdar",
+    "url": "https://changelog.com/podcast/206",
+    "link": "https://cdn.changelog.com/uploads/podcast/206/the-changelog-206.mp3"
+  },
+  {
+    "title": "A protocol for dying with Pieter Hintjens",
+    "url": "https://changelog.com/podcast/205",
+    "link": "https://cdn.changelog.com/uploads/podcast/205/the-changelog-205.mp3"
+  },
+  {
+    "title": "IPFS (InterPlanetary File System) with Juan Benet",
+    "url": "https://changelog.com/podcast/204",
+    "link": "https://cdn.changelog.com/uploads/podcast/204/the-changelog-204.mp3"
+  },
+  {
+    "title": "Jewelbots and Getting Kids Coding with Sara Chipps and George Stocker",
+    "url": "https://changelog.com/podcast/203",
+    "link": "https://cdn.changelog.com/uploads/podcast/203/the-changelog-203.mp3"
+  },
+  {
+    "title": "23 Years of Ruby with Matz (Yukihiro Matsumoto)",
+    "url": "https://changelog.com/podcast/202",
+    "link": "https://cdn.changelog.com/uploads/podcast/202/the-changelog-202.mp3"
+  },
+  {
+    "title": "Why SQLite succeeded as a database",
+    "url": "https://changelog.com/podcast/201",
+    "link": "https://cdn.changelog.com/uploads/podcast/201/the-changelog-201.mp3"
+  },
+  {
+    "title": "JavaScript and Robots with Raquel V\\u00e9lez (rockbot)",
+    "url": "https://changelog.com/podcast/200",
+    "link": "https://cdn.changelog.com/uploads/podcast/200/the-changelog-200.mp3"
+  },
+  {
+    "title": "Your Huginn Agents Are Standing By with Andrew Cantino",
+    "url": "https://changelog.com/podcast/199",
+    "link": "https://cdn.changelog.com/uploads/podcast/199/the-changelog-199.mp3"
+  },
+  {
+    "title": "Haskell Programming with Chris Allen and Julie Moronuki",
+    "url": "https://changelog.com/podcast/198",
+    "link": "https://cdn.changelog.com/uploads/podcast/198/the-changelog-198.mp3"
+  },
+  {
+    "title": "The Future of WordPress and Calypso with Matt Mullenweg",
+    "url": "https://changelog.com/podcast/197",
+    "link": "https://cdn.changelog.com/uploads/podcast/197/the-changelog-197.mp3"
+  },
+  {
+    "title": "TiddlyWiki with Jeremy Ruston",
+    "url": "https://changelog.com/podcast/196",
+    "link": "https://cdn.changelog.com/uploads/podcast/196/the-changelog-196.mp3"
+  },
+  {
+    "title": "Free Code Camp with Quincy Larson",
+    "url": "https://changelog.com/podcast/195",
+    "link": "https://cdn.changelog.com/uploads/podcast/195/the-changelog-195.mp3"
+  },
+  {
+    "title": "Elixir and the Future of Phoenix with Jos\\u00e9 Valim",
+    "url": "https://changelog.com/podcast/194",
+    "link": "https://cdn.changelog.com/uploads/podcast/194/the-changelog-194.mp3"
+  },
+  {
+    "title": "Funding open source with Nadia Eghbal",
+    "url": "https://changelog.com/podcast/193",
+    "link": "https://cdn.changelog.com/uploads/podcast/193/the-changelog-193.mp3"
+  },
+  {
+    "title": "Crystal: Fast as C, Slick as Ruby with Ary Borenszweig and Juan Wajnerman",
+    "url": "https://changelog.com/podcast/192",
+    "link": "https://cdn.changelog.com/uploads/podcast/192/the-changelog-192.mp3"
+  },
+  {
+    "title": "Elm and Functional Programming with Richard Feldman",
+    "url": "https://changelog.com/podcast/191",
+    "link": "https://cdn.changelog.com/uploads/podcast/191/the-changelog-191.mp3"
+  },
+  {
+    "title": "ZeroDB with MacLane Wilkison and Michael Egorov",
+    "url": "https://changelog.com/podcast/190",
+    "link": "https://cdn.changelog.com/uploads/podcast/190/the-changelog-190.mp3"
+  },
+  {
+    "title": "JSON API and API Design with Yehuda Katz",
+    "url": "https://changelog.com/podcast/189",
+    "link": "https://cdn.changelog.com/uploads/podcast/189/the-changelog-189.mp3"
+  },
+  {
+    "title": "DOUBLEHEADER \\u2014 24 Pull Requests and Libraries.io with Andrew Nesbitt + Flynn with Jonathan Rudenberg",
+    "url": "https://changelog.com/podcast/188",
+    "link": "https://cdn.changelog.com/uploads/podcast/188/the-changelog-188.mp3"
+  },
+  {
+    "title": "Redux, React, and Functional JavaScript with Dan Abramov",
+    "url": "https://changelog.com/podcast/187",
+    "link": "https://cdn.changelog.com/uploads/podcast/187/the-changelog-187.mp3"
+  },
+  {
+    "title": "Building the Ultimate Hacking Keyboard with L\\u00e1szl\\u00f3 Monda",
+    "url": "https://changelog.com/podcast/186",
+    "link": "https://cdn.changelog.com/uploads/podcast/186/the-changelog-186.mp3"
+  },
+  {
+    "title": "Kong, APIs, and Microservices with Ahmad Nassri",
+    "url": "https://changelog.com/podcast/185",
+    "link": "https://cdn.changelog.com/uploads/podcast/185/the-changelog-185.mp3"
+  },
+  {
+    "title": "Discussing Vue.js and Personal Projects with Evan You",
+    "url": "https://changelog.com/podcast/184",
+    "link": "https://cdn.changelog.com/uploads/podcast/184/the-changelog-184.mp3"
+  },
+  {
+    "title": "The Offline First Revolution and Speech Recognition with Tal Ater",
+    "url": "https://changelog.com/podcast/183",
+    "link": "https://cdn.changelog.com/uploads/podcast/183/the-changelog-183.mp3"
+  },
+  {
+    "title": "Metabase and Open Source Business Intelligence with Sameer Al-Sakran and Tom Robinson",
+    "url": "https://changelog.com/podcast/182",
+    "link": "https://cdn.changelog.com/uploads/podcast/182/the-changelog-182.mp3"
+  },
+  {
+    "title": "RethinkDB, Databases, and the Realtime Web with Slava Akhmechet",
+    "url": "https://changelog.com/podcast/181",
+    "link": "https://cdn.changelog.com/uploads/podcast/181/the-changelog-181.mp3"
+  },
+  {
+    "title": "Otto, Vagrant, and Automation with Mitchell Hashimoto",
+    "url": "https://changelog.com/podcast/180",
+    "link": "https://cdn.changelog.com/uploads/podcast/180/the-changelog-180.mp3"
+  },
+  {
+    "title": "Caddy HTTP/2 Web Server with Matt Holt and Sebastian Erhart",
+    "url": "https://changelog.com/podcast/179",
+    "link": "https://cdn.changelog.com/uploads/podcast/179/the-changelog-179.mp3"
+  },
+  {
+    "title": "OAuth 2.0, Oz, Node.js, and Hapi.js with Eran Hammer",
+    "url": "https://changelog.com/podcast/178",
+    "link": "https://cdn.changelog.com/uploads/podcast/178/the-changelog-178.mp3"
+  },
+  {
+    "title": "Cylon.js, Gobot, Artoo, and IoT with Ron Evans",
+    "url": "https://changelog.com/podcast/177",
+    "link": "https://cdn.changelog.com/uploads/podcast/177/the-changelog-177.mp3"
+  },
+  {
+    "title": "CROSSOVER \\u2014 CodeNewbie and Community with Saron Yitbarek",
+    "url": "https://changelog.com/podcast/176",
+    "link": "https://cdn.changelog.com/uploads/podcast/176/the-changelog-176.mp3"
+  },
+  {
+    "title": "OSCON and Open Source with Rachel Roumeliotis",
+    "url": "https://changelog.com/podcast/175",
+    "link": "https://cdn.changelog.com/uploads/podcast/175/the-changelog-175.mp3"
+  },
+  {
+    "title": "Metasploit, InfoSec, and Open Source with Trevor Rosen and James \"Egypt\" Lee",
+    "url": "https://changelog.com/podcast/174",
+    "link": "https://cdn.changelog.com/uploads/podcast/174/the-changelog-174.mp3"
+  },
+  {
+    "title": "CROSSOVER \\u2014 Turing-Incomplete with Pam Selle, Jearvon Dharrie, and Justin Campbell",
+    "url": "https://changelog.com/podcast/173",
+    "link": "https://cdn.changelog.com/uploads/podcast/173/the-changelog-173.mp3"
+  },
+  {
+    "title": "GitUp and the UX of Git with Pierre-Olivier Latour",
+    "url": "https://changelog.com/podcast/172",
+    "link": "https://cdn.changelog.com/uploads/podcast/172/the-changelog-172.mp3"
+  },
+  {
+    "title": "Clojure, ClojureScript, and Living Clojure with Carin Meier",
+    "url": "https://changelog.com/podcast/171",
+    "link": "https://cdn.changelog.com/uploads/podcast/171/the-changelog-171.mp3"
+  },
+  {
+    "title": "BoltDB, InfluxDB, and Key-Value Databases with Ben Johnson",
+    "url": "https://changelog.com/podcast/170",
+    "link": "https://cdn.changelog.com/uploads/podcast/170/the-changelog-170.mp3"
+  },
+  {
+    "title": "Middleman and Static Site Generators with Thomas Reynolds",
+    "url": "https://changelog.com/podcast/169",
+    "link": "https://cdn.changelog.com/uploads/podcast/169/the-changelog-169.mp3"
+  },
+  {
+    "title": "Prometheus and service monitoring",
+    "url": "https://changelog.com/podcast/168",
+    "link": "https://cdn.changelog.com/uploads/podcast/168/the-changelog-168.mp3"
+  },
+  {
+    "title": "Mesos and Mesosphere DCOS with Toby Knaup",
+    "url": "https://changelog.com/podcast/167",
+    "link": "https://cdn.changelog.com/uploads/podcast/167/the-changelog-167.mp3"
+  },
+  {
+    "title": "JavaScript in the Wild at NEJS Conf with Nick, Zach and Jerod",
+    "url": "https://changelog.com/podcast/166",
+    "link": "https://cdn.changelog.com/uploads/podcast/166/the-changelog-166.mp3"
+  },
+  {
+    "title": "Betting the Company on Elixir and Ember with Brian Cardarella",
+    "url": "https://changelog.com/podcast/165",
+    "link": "https://cdn.changelog.com/uploads/podcast/165/the-changelog-165.mp3"
+  },
+  {
+    "title": "Semantic UI Returns with Jack Lukic",
+    "url": "https://changelog.com/podcast/164",
+    "link": "https://cdn.changelog.com/uploads/podcast/164/the-changelog-164.mp3"
+  },
+  {
+    "title": "Go in the Modern Enterprise and Go Kit with Peter Bourgon",
+    "url": "https://changelog.com/podcast/163",
+    "link": "https://cdn.changelog.com/uploads/podcast/163/the-changelog-163.mp3"
+  },
+  {
+    "title": "Octopress 3.0 with Brandon Mathis",
+    "url": "https://changelog.com/podcast/162",
+    "link": "https://cdn.changelog.com/uploads/podcast/162/the-changelog-162.mp3"
+  },
+  {
+    "title": "The HTTP/2 Spec with Ilya Grigorik",
+    "url": "https://changelog.com/podcast/161",
+    "link": "https://cdn.changelog.com/uploads/podcast/161/the-changelog-161.mp3"
+  },
+  {
+    "title": "Ampersand.js, SPAs, and WebRTC with Henrik Joreteg",
+    "url": "https://changelog.com/podcast/160",
+    "link": "https://cdn.changelog.com/uploads/podcast/160/the-changelog-160.mp3"
+  },
+  {
+    "title": "Sustaining Open Source Software with Mike Perham",
+    "url": "https://changelog.com/podcast/159",
+    "link": "https://cdn.changelog.com/uploads/podcast/159/the-changelog-159.mp3"
+  },
+  {
+    "title": "Building Bridges with Sarah Allen",
+    "url": "https://changelog.com/podcast/157",
+    "link": "https://cdn.changelog.com/uploads/podcast/157/the-changelog-157.mp3"
+  },
+  {
+    "title": "Modern WordPress using Bedrock and Sage with Ben Word and Scott Walkinshaw",
+    "url": "https://changelog.com/podcast/156",
+    "link": "https://cdn.changelog.com/uploads/podcast/156/the-changelog-156.mp3"
+  },
+  {
+    "title": "GopherCon 2015 with Brian Ketelsen and Erik St. Martin",
+    "url": "https://changelog.com/podcast/158",
+    "link": "https://cdn.changelog.com/uploads/podcast/158/the-changelog-158.mp3"
+  },
+  {
+    "title": "The Future of Node.js with Scott Hammond",
+    "url": "https://changelog.com/podcast/155",
+    "link": "https://cdn.changelog.com/uploads/podcast/155/the-changelog-155.mp3"
+  },
+  {
+    "title": "All Things Ruby with 2015's Ruby Heroes",
+    "url": "https://changelog.com/podcast/154",
+    "link": "https://cdn.changelog.com/uploads/podcast/154/the-changelog-154.mp3"
+  },
+  {
+    "title": "17 Years of curl with Daniel Stenberg",
+    "url": "https://changelog.com/podcast/153",
+    "link": "https://cdn.changelog.com/uploads/podcast/153/the-changelog-153.mp3"
+  },
+  {
+    "title": "BONUS \\u2014 Magic curl Feature with Daniel Stenberg",
+    "url": "https://changelog.com/podcast/bonus-153",
+    "link": "https://cdn.changelog.com/uploads/podcast/bonus-153/the-changelog-bonus-153.mp3"
+  },
+  {
+    "title": "TypeScript and Open Source at Microsoft with Anders Hejlsberg and Jonathan Turner",
+    "url": "https://changelog.com/podcast/152",
+    "link": "https://cdn.changelog.com/uploads/podcast/152/the-changelog-152.mp3"
+  },
+  {
+    "title": "The Rust Programming Language with Steve Klabnik and Yehuda Katz",
+    "url": "https://changelog.com/podcast/151",
+    "link": "https://cdn.changelog.com/uploads/podcast/151/the-changelog-151.mp3"
+  },
+  {
+    "title": "Internet Connected Things Using Spark with Zach Supalla",
+    "url": "https://changelog.com/podcast/150",
+    "link": "https://cdn.changelog.com/uploads/podcast/150/the-changelog-150.mp3"
+  },
+  {
+    "title": "React, React Native, Flux, Relay, and GraphQL with the Facebook React Team",
+    "url": "https://changelog.com/podcast/149",
+    "link": "https://cdn.changelog.com/uploads/podcast/149/the-changelog-149.mp3"
+  },
+  {
+    "title": "The State of Go in 2015 with Andrew Gerrand",
+    "url": "https://changelog.com/podcast/148",
+    "link": "https://cdn.changelog.com/uploads/podcast/148/the-changelog-148.mp3"
+  },
+  {
+    "title": "Elixir and Phoenix with Chris McCord",
+    "url": "https://changelog.com/podcast/147",
+    "link": "https://cdn.changelog.com/uploads/podcast/147/the-changelog-147.mp3"
+  },
+  {
+    "title": "Mind the Gender Parity Gap with Sarah Mei",
+    "url": "https://changelog.com/podcast/146",
+    "link": "https://cdn.changelog.com/uploads/podcast/146/the-changelog-146.mp3"
+  },
+  {
+    "title": "10+ Years of Rails with DHH",
+    "url": "https://changelog.com/podcast/145",
+    "link": "https://cdn.changelog.com/uploads/podcast/145/the-changelog-145.mp3"
+  },
+  {
+    "title": "GitHub Archive and Changelog Nightly with Ilya Grigorik",
+    "url": "https://changelog.com/podcast/144",
+    "link": "https://cdn.changelog.com/uploads/podcast/144/the-changelog-144.mp3"
+  },
+  {
+    "title": "Front-end Developer Interview Questions with Darcy Clarke",
+    "url": "https://changelog.com/podcast/143",
+    "link": "https://cdn.changelog.com/uploads/podcast/143/the-changelog-143.mp3"
+  },
+  {
+    "title": "Laravel PHP Framework with Taylor Otwell",
+    "url": "https://changelog.com/podcast/142",
+    "link": "https://cdn.changelog.com/uploads/podcast/142/the-changelog-142.mp3"
+  },
+  {
+    "title": "Going Fulltime on The Changelog with Adam Stacoviak",
+    "url": "https://changelog.com/podcast/141",
+    "link": "https://cdn.changelog.com/uploads/podcast/141/the-changelog-141.mp3"
+  },
+  {
+    "title": "Aurelia, Durandal, and Leaving AngularJS with Rob Eisenberg",
+    "url": "https://changelog.com/podcast/140",
+    "link": "https://cdn.changelog.com/uploads/podcast/140/the-changelog-140.mp3"
+  },
+  {
+    "title": "The Rise of io.js with Mikeal Rogers",
+    "url": "https://changelog.com/podcast/139",
+    "link": "https://cdn.changelog.com/uploads/podcast/139/the-changelog-139.mp3"
+  },
+  {
+    "title": "rkt, App Container Spec, and CoreOS with Alex Polvi",
+    "url": "https://changelog.com/podcast/138",
+    "link": "https://cdn.changelog.com/uploads/podcast/138/the-changelog-138.mp3"
+  },
+  {
+    "title": "Better GitHub Issues with HuBoard and Ryan Rauh",
+    "url": "https://changelog.com/podcast/137",
+    "link": "https://cdn.changelog.com/uploads/podcast/137/the-changelog-137.mp3"
+  },
+  {
+    "title": "Phusion Passenger (aka Ruby Raptor) with Hongli Lai",
+    "url": "https://changelog.com/podcast/136",
+    "link": "https://cdn.changelog.com/uploads/podcast/136/the-changelog-136.mp3"
+  },
+  {
+    "title": "End of Year 2014 with Adam and Jerod",
+    "url": "https://changelog.com/podcast/135",
+    "link": "https://cdn.changelog.com/uploads/podcast/135/the-changelog-135.mp3"
+  },
+  {
+    "title": "Open Sourcing .NET Core with the Microsoft .NET team",
+    "url": "https://changelog.com/podcast/134",
+    "link": "https://cdn.changelog.com/uploads/podcast/134/the-changelog-134.mp3"
+  },
+  {
+    "title": "All Things Perl with Curtis \"Ovid\" Poe",
+    "url": "https://changelog.com/podcast/133",
+    "link": "https://cdn.changelog.com/uploads/podcast/133/the-changelog-133.mp3"
+  },
+  {
+    "title": "Buckets CMS on Node.js with Dave Kaneda",
+    "url": "https://changelog.com/podcast/132",
+    "link": "https://cdn.changelog.com/uploads/podcast/132/the-changelog-132.mp3"
+  },
+  {
+    "title": "The Road to Ember 2.0 with Tom Dale and Yehuda Katz",
+    "url": "https://changelog.com/podcast/131",
+    "link": "https://cdn.changelog.com/uploads/podcast/131/the-changelog-131.mp3"
+  },
+  {
+    "title": "Inspeqtor and OSS Products with Mike Perham",
+    "url": "https://changelog.com/podcast/130",
+    "link": "https://cdn.changelog.com/uploads/podcast/130/the-changelog-130.mp3"
+  },
+  {
+    "title": "The PHP Language Specification with Sara Golemon",
+    "url": "https://changelog.com/podcast/129",
+    "link": "https://cdn.changelog.com/uploads/podcast/129/the-changelog-129.mp3"
+  },
+  {
+    "title": "Lineman.js and JavaScript Apps with Justin Searls",
+    "url": "https://changelog.com/podcast/128",
+    "link": "https://cdn.changelog.com/uploads/podcast/128/the-changelog-128.mp3"
+  },
+  {
+    "title": "Keep a CHANGELOG with Olivier Lacan",
+    "url": "https://changelog.com/podcast/127",
+    "link": "https://cdn.changelog.com/uploads/podcast/127/the-changelog-127.mp3"
+  },
+  {
+    "title": "Xiki and Reimagining the Shell with Craig Muth",
+    "url": "https://changelog.com/podcast/126",
+    "link": "https://cdn.changelog.com/uploads/podcast/126/the-changelog-126.mp3"
+  },
+  {
+    "title": "Jekyll, GitHub Pages, and Blogging for Hackers",
+    "url": "https://changelog.com/podcast/125",
+    "link": "https://cdn.changelog.com/uploads/podcast/125/the-changelog-125.mp3"
+  },
+  {
+    "title": "Tedit, JS-Git, and Jack with Tim Caswell",
+    "url": "https://changelog.com/podcast/124",
+    "link": "https://cdn.changelog.com/uploads/podcast/124/the-changelog-124.mp3"
+  },
+  {
+    "title": "Gittip and Open Companies with Chad Whitacre",
+    "url": "https://changelog.com/podcast/123",
+    "link": "https://cdn.changelog.com/uploads/podcast/123/the-changelog-123.mp3"
+  },
+  {
+    "title": "Rails Girls Summer of Code and Travis Foundation with Anika Lindtner and Floor Drees",
+    "url": "https://changelog.com/podcast/122",
+    "link": "https://cdn.changelog.com/uploads/podcast/122/the-changelog-122.mp3"
+  },
+  {
+    "title": "Google's Dart Programming Language with Lars Bak and Seth Ladd",
+    "url": "https://changelog.com/podcast/121",
+    "link": "https://cdn.changelog.com/uploads/podcast/121/the-changelog-121.mp3"
+  },
+  {
+    "title": "Ruby Tooling, chruby, ruby-install, and Security with Postmodern",
+    "url": "https://changelog.com/podcast/120",
+    "link": "https://cdn.changelog.com/uploads/podcast/120/the-changelog-120.mp3"
+  },
+  {
+    "title": "MEAN.js & Full-Stack JavaScript with Roie Cohen and Amos Haviv",
+    "url": "https://changelog.com/podcast/119",
+    "link": "https://cdn.changelog.com/uploads/podcast/119/the-changelog-119.mp3"
+  },
+  {
+    "title": "The Sass Way and Open Publishing with John Long",
+    "url": "https://changelog.com/podcast/118",
+    "link": "https://cdn.changelog.com/uploads/podcast/118/the-changelog-118.mp3"
+  },
+  {
+    "title": "Go, Martini and Gophercasts with Jeremy Saenz",
+    "url": "https://changelog.com/podcast/117",
+    "link": "https://cdn.changelog.com/uploads/podcast/117/the-changelog-117.mp3"
+  },
+  {
+    "title": "Node Black Friday at Walmart with Eran Hammer",
+    "url": "https://changelog.com/podcast/116",
+    "link": "https://cdn.changelog.com/uploads/podcast/116/the-changelog-116.mp3"
+  },
+  {
+    "title": "Flynn Updates with Jonathan Rudenberg and Jeff Lindsay",
+    "url": "https://changelog.com/podcast/115",
+    "link": "https://cdn.changelog.com/uploads/podcast/115/the-changelog-115.mp3"
+  },
+  {
+    "title": "RethinkDB with Slava Akhmechet",
+    "url": "https://changelog.com/podcast/114",
+    "link": "https://cdn.changelog.com/uploads/podcast/114/the-changelog-114.mp3"
+  },
+  {
+    "title": "Keep npm Running with Isaac Schlueter and Charlie Robbins",
+    "url": "https://changelog.com/podcast/113",
+    "link": "https://cdn.changelog.com/uploads/podcast/113/the-changelog-113.mp3"
+  },
+  {
+    "title": "ZURB Foundation 5 and Front-End Frameworks with Jonathan Smiley and Mark Hayes",
+    "url": "https://changelog.com/podcast/112",
+    "link": "https://cdn.changelog.com/uploads/podcast/112/the-changelog-112.mp3"
+  },
+  {
+    "title": "Hoodie, noBackend, and Offline-First with Caolan McMahon",
+    "url": "https://changelog.com/podcast/111",
+    "link": "https://cdn.changelog.com/uploads/podcast/111/the-changelog-111.mp3"
+  },
+  {
+    "title": "Capistrano and Burnout with Lee Hambley",
+    "url": "https://changelog.com/podcast/110",
+    "link": "https://cdn.changelog.com/uploads/podcast/110/the-changelog-110.mp3"
+  },
+  {
+    "title": "Open Karma and Design Love for OSS with Justine Arreche and Sebastian Gr\\u00e4\\u00dfl",
+    "url": "https://changelog.com/podcast/109",
+    "link": "https://cdn.changelog.com/uploads/podcast/109/the-changelog-109.mp3"
+  },
+  {
+    "title": "Exercism.io and Crowd-Sourced Code Reviews with Katrina Owen",
+    "url": "https://changelog.com/podcast/108",
+    "link": "https://cdn.changelog.com/uploads/podcast/108/the-changelog-108.mp3"
+  },
+  {
+    "title": "Balanced Payments and Open Sourcing Everything with Marshall Jones",
+    "url": "https://changelog.com/podcast/107",
+    "link": "https://cdn.changelog.com/uploads/podcast/107/the-changelog-107.mp3"
+  },
+  {
+    "title": "Semantic UI with Jack Lukic",
+    "url": "https://changelog.com/podcast/106",
+    "link": "https://cdn.changelog.com/uploads/podcast/106/the-changelog-106.mp3"
+  },
+  {
+    "title": "Ghost Blogging Platform with John O'Nolan",
+    "url": "https://changelog.com/podcast/105",
+    "link": "https://cdn.changelog.com/uploads/podcast/105/the-changelog-105.mp3"
+  },
+  {
+    "title": "Kickstarting Espruino with Gordon Williams",
+    "url": "https://changelog.com/podcast/104",
+    "link": "https://cdn.changelog.com/uploads/podcast/104/the-changelog-104.mp3"
+  },
+  {
+    "title": "GitLab and Open Source with Sytse Sijbrandij",
+    "url": "https://changelog.com/podcast/103",
+    "link": "https://cdn.changelog.com/uploads/podcast/103/the-changelog-103.mp3"
+  },
+  {
+    "title": "RVM and Ruby Version Managment with Michal Papis",
+    "url": "https://changelog.com/podcast/102",
+    "link": "https://cdn.changelog.com/uploads/podcast/102/the-changelog-102.mp3"
+  },
+  {
+    "title": "npm Origins and Node.js with Isaac Schlueter",
+    "url": "https://changelog.com/podcast/101",
+    "link": "https://cdn.changelog.com/uploads/podcast/101/the-changelog-101.mp3"
+  },
+  {
+    "title": "Go Programming with Rob Pike and Andrew Gerrand",
+    "url": "https://changelog.com/podcast/100",
+    "link": "https://cdn.changelog.com/uploads/podcast/100/the-changelog-100.mp3"
+  },
+  {
+    "title": "Flynn, Tent, and Open Source PaaS's with Jeff Lindsay and Jonathan Rudenberg",
+    "url": "https://changelog.com/podcast/99",
+    "link": "https://cdn.changelog.com/uploads/podcast/99/the-changelog-99.mp3"
+  },
+  {
+    "title": "AFNetworking, Helios, and iOS Development with Mattt Thompson",
+    "url": "https://changelog.com/podcast/98",
+    "link": "https://cdn.changelog.com/uploads/podcast/98/the-changelog-98.mp3"
+  },
+  {
+    "title": "API Wrappers and Ruby with Drew Blas",
+    "url": "https://changelog.com/podcast/97",
+    "link": "https://cdn.changelog.com/uploads/podcast/97/the-changelog-97.mp3"
+  },
+  {
+    "title": "Ruby off Rails with Jesse Wolgamott",
+    "url": "https://changelog.com/podcast/96",
+    "link": "https://cdn.changelog.com/uploads/podcast/96/the-changelog-96.mp3"
+  },
+  {
+    "title": "Civic Hacking and Code for America with Michal Migurski and Ezra Spier",
+    "url": "https://changelog.com/podcast/95",
+    "link": "https://cdn.changelog.com/uploads/podcast/95/the-changelog-95.mp3"
+  },
+  {
+    "title": "Sass, libsass, and Haml with Hampton Catlin",
+    "url": "https://changelog.com/podcast/94",
+    "link": "https://cdn.changelog.com/uploads/podcast/94/the-changelog-94.mp3"
+  },
+  {
+    "title": "Sass, Bourbon, and Product Design with Phil LaPier",
+    "url": "https://changelog.com/podcast/93",
+    "link": "https://cdn.changelog.com/uploads/podcast/93/the-changelog-93.mp3"
+  },
+  {
+    "title": "Sidekiq and Ruby with Mike Perham",
+    "url": "https://changelog.com/podcast/92",
+    "link": "https://cdn.changelog.com/uploads/podcast/92/the-changelog-92.mp3"
+  },
+  {
+    "title": "Discover Meteor.js with Sacha Greif",
+    "url": "https://changelog.com/podcast/91",
+    "link": "https://cdn.changelog.com/uploads/podcast/91/the-changelog-91.mp3"
+  },
+  {
+    "title": "Pair Programming and Ruby with Avdi Grimm",
+    "url": "https://changelog.com/podcast/90",
+    "link": "https://cdn.changelog.com/uploads/podcast/90/the-changelog-90.mp3"
+  },
+  {
+    "title": "Docker and Linux Containers with Solomon Hykes",
+    "url": "https://changelog.com/podcast/89",
+    "link": "https://cdn.changelog.com/uploads/podcast/89/the-changelog-89.mp3"
+  },
+  {
+    "title": "Vagrant and HashiCorp with Mitchell Hashimoto",
+    "url": "https://changelog.com/podcast/88",
+    "link": "https://cdn.changelog.com/uploads/podcast/88/the-changelog-88.mp3"
+  },
+  {
+    "title": "Sustaining Open Source and Building an Open Company with Chad Whitacre",
+    "url": "https://changelog.com/podcast/87",
+    "link": "https://cdn.changelog.com/uploads/podcast/87/the-changelog-87.mp3"
+  },
+  {
+    "title": "Discourse and Ruby with Jeff Atwood (aka Coding Horror)",
+    "url": "https://changelog.com/podcast/86",
+    "link": "https://cdn.changelog.com/uploads/podcast/86/the-changelog-86.mp3"
+  },
+  {
+    "title": "We're Back and We're LIVE!",
+    "url": "https://changelog.com/podcast/85",
+    "link": "https://cdn.changelog.com/uploads/podcast/85/the-changelog-85.mp3"
+  },
+  {
+    "title": "News Roundup",
+    "url": "https://changelog.com/podcast/84",
+    "link": "https://cdn.changelog.com/uploads/podcast/84/the-changelog-84.mp3"
+  },
+  {
+    "title": "Cloud 9 IDE with Ruben Daniels and Matt Pardee",
+    "url": "https://changelog.com/podcast/83",
+    "link": "https://cdn.changelog.com/uploads/podcast/83/the-changelog-83.mp3"
+  },
+  {
+    "title": "Ruby Motion and MacRuby with Laurent Sansonetti",
+    "url": "https://changelog.com/podcast/82",
+    "link": "https://cdn.changelog.com/uploads/podcast/82/the-changelog-82.mp3"
+  },
+  {
+    "title": "Celluloid and Concurrency with Tony Arcieri",
+    "url": "https://changelog.com/podcast/81",
+    "link": "https://cdn.changelog.com/uploads/podcast/81/the-changelog-81.mp3"
+  },
+  {
+    "title": "Luvit and Lua Bindings for libuv with Tim Caswell",
+    "url": "https://changelog.com/podcast/80",
+    "link": "https://cdn.changelog.com/uploads/podcast/80/the-changelog-80.mp3"
+  },
+  {
+    "title": "Adhearsion, Telephony, and XMPP with Ben Klang and Ben Langfeld",
+    "url": "https://changelog.com/podcast/79",
+    "link": "https://cdn.changelog.com/uploads/podcast/79/the-changelog-79.mp3"
+  },
+  {
+    "title": "CocoaPods and MacRuby with Eloy Dur\\u00e1n",
+    "url": "https://changelog.com/podcast/78",
+    "link": "https://cdn.changelog.com/uploads/podcast/78/the-changelog-78.mp3"
+  },
+  {
+    "title": "Solarized and Linux on the Desktop with Ethan Schoonover",
+    "url": "https://changelog.com/podcast/77",
+    "link": "https://cdn.changelog.com/uploads/podcast/77/the-changelog-77.mp3"
+  },
+  {
+    "title": ".NET, NuGet, and Open Source with Phil Haack",
+    "url": "https://changelog.com/podcast/76",
+    "link": "https://cdn.changelog.com/uploads/podcast/76/the-changelog-76.mp3"
+  },
+  {
+    "title": "Travis CI, Scaling Apps, and Riak with Josh Kalderimis and Mathias Meyer",
+    "url": "https://changelog.com/podcast/75",
+    "link": "https://cdn.changelog.com/uploads/podcast/75/the-changelog-75.mp3"
+  },
+  {
+    "title": "The League of Moveable Type with Micah Rich",
+    "url": "https://changelog.com/podcast/74",
+    "link": "https://cdn.changelog.com/uploads/podcast/74/the-changelog-74.mp3"
+  },
+  {
+    "title": "tmux, dotfiles, and Text Mode with Brian Hogan and Josh Clayton",
+    "url": "https://changelog.com/podcast/73",
+    "link": "https://cdn.changelog.com/uploads/podcast/73/the-changelog-73.mp3"
+  },
+  {
+    "title": "Vagrant and Virtualized Environments with Mitchell Hashimoto",
+    "url": "https://changelog.com/podcast/72",
+    "link": "https://cdn.changelog.com/uploads/podcast/72/the-changelog-72.mp3"
+  },
+  {
+    "title": "Spine and Client-Side MVC with Alex MacCaw",
+    "url": "https://changelog.com/podcast/71",
+    "link": "https://cdn.changelog.com/uploads/podcast/71/the-changelog-71.mp3"
+  },
+  {
+    "title": "Foundation and Other Zurb Goodies with Jonathan Smiley and Matt Kelly",
+    "url": "https://changelog.com/podcast/70",
+    "link": "https://cdn.changelog.com/uploads/podcast/70/the-changelog-70.mp3"
+  },
+  {
+    "title": "Spree and Ecommerce in Rails with Sean Schofield and Brian Quinn",
+    "url": "https://changelog.com/podcast/69",
+    "link": "https://cdn.changelog.com/uploads/podcast/69/the-changelog-69.mp3"
+  },
+  {
+    "title": "Growl and Open Source in the App Store with Chris Forsythe",
+    "url": "https://changelog.com/podcast/68",
+    "link": "https://cdn.changelog.com/uploads/podcast/68/the-changelog-68.mp3"
+  },
+  {
+    "title": "HTML5 Boilerplate and JavaScript with Paul Irish",
+    "url": "https://changelog.com/podcast/67",
+    "link": "https://cdn.changelog.com/uploads/podcast/67/the-changelog-67.mp3"
+  },
+  {
+    "title": "RVM and BDSM with Wayne Seguin",
+    "url": "https://changelog.com/podcast/66",
+    "link": "https://cdn.changelog.com/uploads/podcast/66/the-changelog-66.mp3"
+  },
+  {
+    "title": "Code for America with Erik Michaels-Ober and Max Ogden",
+    "url": "https://changelog.com/podcast/65",
+    "link": "https://cdn.changelog.com/uploads/podcast/65/the-changelog-65.mp3"
+  },
+  {
+    "title": "Pow, Rails 3.1 Asset Pipeline, CoffeeScript and More with Sam Stephenson",
+    "url": "https://changelog.com/podcast/64",
+    "link": "https://cdn.changelog.com/uploads/podcast/64/the-changelog-64.mp3"
+  },
+  {
+    "title": "CDNJS with Thomas Davis and Ryan Kirkman",
+    "url": "https://changelog.com/podcast/63",
+    "link": "https://cdn.changelog.com/uploads/podcast/63/the-changelog-63.mp3"
+  },
+  {
+    "title": "IronJS, F#, and .NET with Fredrik Holmstr\\u00f6m",
+    "url": "https://changelog.com/podcast/62",
+    "link": "https://cdn.changelog.com/uploads/podcast/62/the-changelog-62.mp3"
+  },
+  {
+    "title": "Oh My Zsh with Robby Russell",
+    "url": "https://changelog.com/podcast/61",
+    "link": "https://cdn.changelog.com/uploads/podcast/61/the-changelog-61.mp3"
+  },
+  {
+    "title": " Fog, the Ruby Cloud Services Library with Wesley Beary",
+    "url": "https://changelog.com/podcast/60",
+    "link": "https://cdn.changelog.com/uploads/podcast/60/the-changelog-60.mp3"
+  },
+  {
+    "title": "RubyGems and RubyGems.org with Nick Quaranto",
+    "url": "https://changelog.com/podcast/59",
+    "link": "https://cdn.changelog.com/uploads/podcast/59/the-changelog-59.mp3"
+  },
+  {
+    "title": "Twisted and Evented Programming in Python with Glyph Lefkowitz",
+    "url": "https://changelog.com/podcast/58",
+    "link": "https://cdn.changelog.com/uploads/podcast/58/the-changelog-58.mp3"
+  },
+  {
+    "title": "Amplify.js, jQuery, and CoffeeScript with Mike Hostetler and Scott Gonz\\u00e1lez",
+    "url": "https://changelog.com/podcast/57",
+    "link": "https://cdn.changelog.com/uploads/podcast/57/the-changelog-57.mp3"
+  },
+  {
+    "title": "Vim Round Table with Drew Neil, Tim Pope, and Yehuda Katz",
+    "url": "https://changelog.com/podcast/56",
+    "link": "https://cdn.changelog.com/uploads/podcast/56/the-changelog-56.mp3"
+  },
+  {
+    "title": "Goliath, Event Machine, and SPDY with Ilya Grigorik",
+    "url": "https://changelog.com/podcast/55",
+    "link": "https://cdn.changelog.com/uploads/podcast/55/the-changelog-55.mp3"
+  },
+  {
+    "title": "Erlang, CouchBase and Merging with Membase with Chris Anderson",
+    "url": "https://changelog.com/podcast/54",
+    "link": "https://cdn.changelog.com/uploads/podcast/54/the-changelog-54.mp3"
+  },
+  {
+    "title": "Formalize and News Roundup \"Design Edition\" with Nathan Smith",
+    "url": "https://changelog.com/podcast/53",
+    "link": "https://cdn.changelog.com/uploads/podcast/53/the-changelog-53.mp3"
+  },
+  {
+    "title": "Serve, RadiantCMS, Design and Prototyping with John W. Long",
+    "url": "https://changelog.com/podcast/52",
+    "link": "https://cdn.changelog.com/uploads/podcast/52/the-changelog-52.mp3"
+  },
+  {
+    "title": "MongoDB, NoSQL, and Web Scale with Eliot Horowitz",
+    "url": "https://changelog.com/podcast/51",
+    "link": "https://cdn.changelog.com/uploads/podcast/51/the-changelog-51.mp3"
+  },
+  {
+    "title": "Ruby, Rails, and the Cloud with Dr Nic",
+    "url": "https://changelog.com/podcast/50",
+    "link": "https://cdn.changelog.com/uploads/podcast/50/the-changelog-50.mp3"
+  },
+  {
+    "title": "Git, Showoff, and XBox Kinect with Scott Chacon",
+    "url": "https://changelog.com/podcast/49",
+    "link": "https://cdn.changelog.com/uploads/podcast/49/the-changelog-49.mp3"
+  },
+  {
+    "title": "Jenkins  and Continous Integration with Kohsuke Kawaguchi and Andrew Bayer",
+    "url": "https://changelog.com/podcast/48",
+    "link": "https://cdn.changelog.com/uploads/podcast/48/the-changelog-48.mp3"
+  },
+  {
+    "title": "Open Government and the Citizen Coder with Carl Tashian",
+    "url": "https://changelog.com/podcast/47",
+    "link": "https://cdn.changelog.com/uploads/podcast/47/the-changelog-47.mp3"
+  },
+  {
+    "title": "YUI 3, Node.js, JSLint, and Douglas Crockford Code Reviews",
+    "url": "https://changelog.com/podcast/46",
+    "link": "https://cdn.changelog.com/uploads/podcast/46/the-changelog-46.mp3"
+  },
+  {
+    "title": "Redis In-Memory Data Store with Salvatore Sanfilippo",
+    "url": "https://changelog.com/podcast/45",
+    "link": "https://cdn.changelog.com/uploads/podcast/45/the-changelog-45.mp3"
+  },
+  {
+    "title": "Ruby 1.9, Nokogiri, and Tender Lovemaking with Aaron Patterson",
+    "url": "https://changelog.com/podcast/44",
+    "link": "https://cdn.changelog.com/uploads/podcast/44/the-changelog-44.mp3"
+  },
+  {
+    "title": "Hackety Hack and _why with Steve Klabnik",
+    "url": "https://changelog.com/podcast/43",
+    "link": "https://cdn.changelog.com/uploads/podcast/43/the-changelog-43.mp3"
+  },
+  {
+    "title": "Rails 3.1 and SproutCore with Yehuda Katz",
+    "url": "https://changelog.com/podcast/42",
+    "link": "https://cdn.changelog.com/uploads/podcast/42/the-changelog-42.mp3"
+  },
+  {
+    "title": "Building Telephony Apps with Chris Matthieu",
+    "url": "https://changelog.com/podcast/41",
+    "link": "https://cdn.changelog.com/uploads/podcast/41/the-changelog-41.mp3"
+  },
+  {
+    "title": "Riak Revisited with Andy Gross, Mark Phillips, and John Nunemaker",
+    "url": "https://changelog.com/podcast/40",
+    "link": "https://cdn.changelog.com/uploads/podcast/40/the-changelog-40.mp3"
+  },
+  {
+    "title": "Scripty2, Zepto.js, and Vapor.js with Thomas Fuchs",
+    "url": "https://changelog.com/podcast/39",
+    "link": "https://cdn.changelog.com/uploads/podcast/39/the-changelog-39.mp3"
+  },
+  {
+    "title": "DevOps and Chef with Corey Donohoe and Seth Chisamore",
+    "url": "https://changelog.com/podcast/38",
+    "link": "https://cdn.changelog.com/uploads/podcast/38/the-changelog-38.mp3"
+  },
+  {
+    "title": "PubSubHubBub and the Real-Time Web with Julien Genestoux",
+    "url": "https://changelog.com/podcast/37",
+    "link": "https://cdn.changelog.com/uploads/podcast/37/the-changelog-37.mp3"
+  },
+  {
+    "title": "Django Dash, Python, and Ruby with Daniel, Christian, and Matt",
+    "url": "https://changelog.com/podcast/36",
+    "link": "https://cdn.changelog.com/uploads/podcast/36/the-changelog-36.mp3"
+  },
+  {
+    "title": "Homebrew and OSX Package Management with Max Howell",
+    "url": "https://changelog.com/podcast/35",
+    "link": "https://cdn.changelog.com/uploads/podcast/35/the-changelog-35.mp3"
+  },
+  {
+    "title": "Mongrel2 and high performance web sites",
+    "url": "https://changelog.com/podcast/34",
+    "link": "https://cdn.changelog.com/uploads/podcast/34/the-changelog-34.mp3"
+  },
+  {
+    "title": "Node Knockout",
+    "url": "https://changelog.com/podcast/33",
+    "link": "https://cdn.changelog.com/uploads/podcast/33/the-changelog-33.mp3"
+  },
+  {
+    "title": "960.gs and CSS Grid Frameworks with Nathan Smith",
+    "url": "https://changelog.com/podcast/32",
+    "link": "https://cdn.changelog.com/uploads/podcast/32/the-changelog-32.mp3"
+  },
+  {
+    "title": "The WebSocket protocol",
+    "url": "https://changelog.com/podcast/31",
+    "link": "https://cdn.changelog.com/uploads/podcast/31/the-changelog-31.mp3"
+  },
+  {
+    "title": "Sencha Touch with David Kaneda",
+    "url": "https://changelog.com/podcast/30",
+    "link": "https://cdn.changelog.com/uploads/podcast/30/the-changelog-30.mp3"
+  },
+  {
+    "title": "CoffeeScript and JavaScript with Jeremy Ashkenas",
+    "url": "https://changelog.com/podcast/29",
+    "link": "https://cdn.changelog.com/uploads/podcast/29/the-changelog-29.mp3"
+  },
+  {
+    "title": "Mobile Web Development and jQuery with John Resig",
+    "url": "https://changelog.com/podcast/28",
+    "link": "https://cdn.changelog.com/uploads/podcast/28/the-changelog-28.mp3"
+  },
+  {
+    "title": "Padrino Ruby Web Framework with Arthur Chiu and Nathan Esquenazi",
+    "url": "https://changelog.com/podcast/27",
+    "link": "https://cdn.changelog.com/uploads/podcast/27/the-changelog-27.mp3"
+  },
+  {
+    "title": "JSON and JavaScript with Douglas Crockford",
+    "url": "https://changelog.com/podcast/26",
+    "link": "https://cdn.changelog.com/uploads/podcast/26/the-changelog-26.mp3"
+  },
+  {
+    "title": "Rapha\\u00eblJS and Running an Open Source Project with Dmitry Baranovskiy",
+    "url": "https://changelog.com/podcast/25",
+    "link": "https://cdn.changelog.com/uploads/podcast/25/the-changelog-25.mp3"
+  },
+  {
+    "title": "Tornado, Hip-hop, and Three20 with David Recordon",
+    "url": "https://changelog.com/podcast/24",
+    "link": "https://cdn.changelog.com/uploads/podcast/24/the-changelog-24.mp3"
+  },
+  {
+    "title": "The Ruby Racer with Charles Lowell",
+    "url": "https://changelog.com/podcast/23",
+    "link": "https://cdn.changelog.com/uploads/podcast/23/the-changelog-23.mp3"
+  },
+  {
+    "title": "Sammy.js and Semantic Versioning with Aaron Quint",
+    "url": "https://changelog.com/podcast/22",
+    "link": "https://cdn.changelog.com/uploads/podcast/22/the-changelog-22.mp3"
+  },
+  {
+    "title": "Tweets from Chirp, Twitter's Developer Conference",
+    "url": "https://changelog.com/podcast/21",
+    "link": "https://cdn.changelog.com/uploads/podcast/21/the-changelog-21.mp3"
+  },
+  {
+    "title": "Node.js and Server-Side JavaScript with Felix Geisend\\u00f6rfer",
+    "url": "https://changelog.com/podcast/20",
+    "link": "https://cdn.changelog.com/uploads/podcast/20/the-changelog-20.mp3"
+  },
+  {
+    "title": "Ruby, TextMate, and Red Dirt Ruby Conf with James Edward Gray",
+    "url": "https://changelog.com/podcast/19",
+    "link": "https://cdn.changelog.com/uploads/podcast/19/the-changelog-19.mp3"
+  },
+  {
+    "title": "NoSQL Smackdown!",
+    "url": "https://changelog.com/podcast/18",
+    "link": "https://cdn.changelog.com/uploads/podcast/18/the-changelog-18.mp3"
+  },
+  {
+    "title": "Open Source Publishing with Geoffrey Grosenbach, Brandon Mathis, and Tim Caswell",
+    "url": "https://changelog.com/podcast/17",
+    "link": "https://cdn.changelog.com/uploads/podcast/17/the-changelog-17.mp3"
+  },
+  {
+    "title": "Ajax.org frameworks with Ruben Daniels and Rik Arends",
+    "url": "https://changelog.com/podcast/16",
+    "link": "https://cdn.changelog.com/uploads/podcast/16/the-changelog-16.mp3"
+  },
+  {
+    "title": "OAuth, Hurl.it, and Baconfile with Leah Culver",
+    "url": "https://changelog.com/podcast/15",
+    "link": "https://cdn.changelog.com/uploads/podcast/15/the-changelog-15.mp3"
+  },
+  {
+    "title": "Riak, the New Erlang-based NoSQL Store with Andy Gross and Sean Cribbs",
+    "url": "https://changelog.com/podcast/14",
+    "link": "https://cdn.changelog.com/uploads/podcast/14/the-changelog-14.mp3"
+  },
+  {
+    "title": "Civic hacking with Luigi Montanez and Jeremy Carbaugh",
+    "url": "https://changelog.com/podcast/13",
+    "link": "https://cdn.changelog.com/uploads/podcast/13/the-changelog-13.mp3"
+  },
+  {
+    "title": "Gordon is such a Showoff",
+    "url": "https://changelog.com/podcast/12",
+    "link": "https://cdn.changelog.com/uploads/podcast/12/the-changelog-12.mp3"
+  },
+  {
+    "title": "Ordered List, RailsTips.org, and MongoMapper with John Nunemaker",
+    "url": "https://changelog.com/podcast/11",
+    "link": "https://cdn.changelog.com/uploads/podcast/11/the-changelog-11.mp3"
+  },
+  {
+    "title": "All Things GitHub with Chris Wanstrath",
+    "url": "https://changelog.com/podcast/10",
+    "link": "https://cdn.changelog.com/uploads/podcast/10/the-changelog-10.mp3"
+  },
+  {
+    "title": "Fix-me, Configliere, and more Node.js",
+    "url": "https://changelog.com/podcast/9",
+    "link": "https://cdn.changelog.com/uploads/podcast/9/the-changelog-9.mp3"
+  },
+  {
+    "title": "Appcelerator's Titanium and Titanium Mobile with Marshall Culpepper",
+    "url": "https://changelog.com/podcast/8",
+    "link": "https://cdn.changelog.com/uploads/podcast/8/the-changelog-8.mp3"
+  },
+  {
+    "title": "10gen and MongoDB with Mike Dirolf",
+    "url": "https://changelog.com/podcast/7",
+    "link": "https://cdn.changelog.com/uploads/podcast/7/the-changelog-7.mp3"
+  },
+  {
+    "title": "The Weekly News with Steven Bristol",
+    "url": "https://changelog.com/podcast/6",
+    "link": "https://cdn.changelog.com/uploads/podcast/6/the-changelog-6.mp3"
+  },
+  {
+    "title": "Document Cloud and Underscore.js with Jeremy Ashkenas",
+    "url": "https://changelog.com/podcast/5",
+    "link": "https://cdn.changelog.com/uploads/podcast/5/the-changelog-5.mp3"
+  },
+  {
+    "title": "Chrome OS, Thor and ROaR",
+    "url": "https://changelog.com/podcast/4",
+    "link": "https://cdn.changelog.com/uploads/podcast/4/the-changelog-4.mp3"
+  },
+  {
+    "title": "The Go Programming Language from Google with Rob Pike",
+    "url": "https://changelog.com/podcast/3",
+    "link": "https://cdn.changelog.com/uploads/podcast/3/the-changelog-3.mp3"
+  },
+  {
+    "title": "The Original Changelog Weekly",
+    "url": "https://changelog.com/podcast/2",
+    "link": "https://cdn.changelog.com/uploads/podcast/2/the-changelog-2.mp3"
+  },
+  {
+    "title": "Haml, Sass, and Compass with Nathan Weizenbaum and Chris Eppstein",
+    "url": "https://changelog.com/podcast/1",
+    "link": "https://cdn.changelog.com/uploads/podcast/1/the-changelog-1.mp3"
+  },
+  {
+    "title": "Civic hacking with Luigi Montanez and Jeremy Carbaugh",
+    "url": "https://changelog.com/podcast/13",
+    "link": "https://cdn.changelog.com/uploads/podcast/13/the-changelog-13.mp3"
+  },
+  {
+    "title": "Gordon is such a Showoff",
+    "url": "https://changelog.com/podcast/12",
+    "link": "https://cdn.changelog.com/uploads/podcast/12/the-changelog-12.mp3"
+  },
+  {
+    "title": "Ordered List, RailsTips.org, and MongoMapper with John Nunemaker",
+    "url": "https://changelog.com/podcast/11",
+    "link": "https://cdn.changelog.com/uploads/podcast/11/the-changelog-11.mp3"
+  },
+  {
+    "title": "All Things GitHub with Chris Wanstrath",
+    "url": "https://changelog.com/podcast/10",
+    "link": "https://cdn.changelog.com/uploads/podcast/10/the-changelog-10.mp3"
+  },
+  {
+    "title": "Fix-me, Configliere, and more Node.js",
+    "url": "https://changelog.com/podcast/9",
+    "link": "https://cdn.changelog.com/uploads/podcast/9/the-changelog-9.mp3"
+  },
+  {
+    "title": "Appcelerator's Titanium and Titanium Mobile with Marshall Culpepper",
+    "url": "https://changelog.com/podcast/8",
+    "link": "https://cdn.changelog.com/uploads/podcast/8/the-changelog-8.mp3"
+  },
+  {
+    "title": "10gen and MongoDB with Mike Dirolf",
+    "url": "https://changelog.com/podcast/7",
+    "link": "https://cdn.changelog.com/uploads/podcast/7/the-changelog-7.mp3"
+  },
+  {
+    "title": "The Weekly News with Steven Bristol",
+    "url": "https://changelog.com/podcast/6",
+    "link": "https://cdn.changelog.com/uploads/podcast/6/the-changelog-6.mp3"
+  },
+  {
+    "title": "Document Cloud and Underscore.js with Jeremy Ashkenas",
+    "url": "https://changelog.com/podcast/5",
+    "link": "https://cdn.changelog.com/uploads/podcast/5/the-changelog-5.mp3"
+  },
+  {
+    "title": "Chrome OS, Thor and ROaR",
+    "url": "https://changelog.com/podcast/4",
+    "link": "https://cdn.changelog.com/uploads/podcast/4/the-changelog-4.mp3"
+  },
+  {
+    "title": "The Go Programming Language from Google with Rob Pike",
+    "url": "https://changelog.com/podcast/3",
+    "link": "https://cdn.changelog.com/uploads/podcast/3/the-changelog-3.mp3"
+  },
+  {
+    "title": "The Original Changelog Weekly",
+    "url": "https://changelog.com/podcast/2",
+    "link": "https://cdn.changelog.com/uploads/podcast/2/the-changelog-2.mp3"
+  },
+  {
+    "title": "Haml, Sass, and Compass with Nathan Weizenbaum and Chris Eppstein",
+    "url": "https://changelog.com/podcast/1",
+    "link": "https://cdn.changelog.com/uploads/podcast/1/the-changelog-1.mp3"
+  }
+]

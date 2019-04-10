@@ -6,7 +6,6 @@ var name = 'practicalai'
 const list = require('./'+name+'.json');
 exec(`mkdir -p mp3/${name}/`)
 function run(list) {
-  // list = [list[0]]
   list.forEach(function(item) {
     var title = getTitle(item);
     console.log(title);
