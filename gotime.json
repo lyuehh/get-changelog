@@ -1,0 +1,512 @@
+[
+  {
+    "title": "Go 2 and the future of Go",
+    "url": "https://changelog.com/gotime/80",
+    "link": "https://cdn.changelog.com/uploads/gotime/80/go-time-80.mp3"
+  },
+  {
+    "title": "New Go branding strategy",
+    "url": "https://changelog.com/gotime/79",
+    "link": "https://cdn.changelog.com/uploads/gotime/79/go-time-79.mp3"
+  },
+  {
+    "title": "Hacking drones with Go",
+    "url": "https://changelog.com/gotime/78",
+    "link": "https://cdn.changelog.com/uploads/gotime/78/go-time-78.mp3"
+  },
+  {
+    "title": "Go and WebAssembly (Wasm) \\u2013 BONUS",
+    "url": "https://changelog.com/gotime/bonus-77",
+    "link": "https://cdn.changelog.com/uploads/gotime/bonus-77/go-time-bonus-77.mp3"
+  },
+  {
+    "title": "Dependencies and the future of Go",
+    "url": "https://changelog.com/gotime/77",
+    "link": "https://cdn.changelog.com/uploads/gotime/77/go-time-77.mp3"
+  },
+  {
+    "title": "Building a distributed index with Go",
+    "url": "https://changelog.com/gotime/76",
+    "link": "https://cdn.changelog.com/uploads/gotime/76/go-time-76.mp3"
+  },
+  {
+    "title": "GoLand IDE and managing Gopher Slack",
+    "url": "https://changelog.com/gotime/75",
+    "link": "https://cdn.changelog.com/uploads/gotime/75/go-time-75.mp3"
+  },
+  {
+    "title": "Gophercises and creating content for Gophers",
+    "url": "https://changelog.com/gotime/74",
+    "link": "https://cdn.changelog.com/uploads/gotime/74/go-time-74.mp3"
+  },
+  {
+    "title": "CockroachDB and distributed databases in Go",
+    "url": "https://changelog.com/gotime/73",
+    "link": "https://cdn.changelog.com/uploads/gotime/73/go-time-73.mp3"
+  },
+  {
+    "title": "Learning and teaching Go",
+    "url": "https://changelog.com/gotime/72",
+    "link": "https://cdn.changelog.com/uploads/gotime/72/go-time-72.mp3"
+  },
+  {
+    "title": "Go is for everyone",
+    "url": "https://changelog.com/gotime/71",
+    "link": "https://cdn.changelog.com/uploads/gotime/71/go-time-71.mp3"
+  },
+  {
+    "title": "From Russia with love",
+    "url": "https://changelog.com/gotime/70",
+    "link": "https://cdn.changelog.com/uploads/gotime/70/go-time-70.mp3"
+  },
+  {
+    "title": "Golang Flow, FaaS, and Buffalo",
+    "url": "https://changelog.com/gotime/69",
+    "link": "https://cdn.changelog.com/uploads/gotime/69/go-time-69.mp3"
+  },
+  {
+    "title": "SPECIAL \\u2014 Ask us anything! (pt. 2)",
+    "url": "https://changelog.com/gotime/68",
+    "link": "https://cdn.changelog.com/uploads/gotime/68/go-time-68.mp3"
+  },
+  {
+    "title": "Supporting the Go community",
+    "url": "https://changelog.com/gotime/67",
+    "link": "https://cdn.changelog.com/uploads/gotime/67/go-time-67.mp3"
+  },
+  {
+    "title": "Performance, Fuzzing, and Magic",
+    "url": "https://changelog.com/gotime/66",
+    "link": "https://cdn.changelog.com/uploads/gotime/66/go-time-66.mp3"
+  },
+  {
+    "title": "GopherCon Brazil & Genetics with Vitor De Mario",
+    "url": "https://changelog.com/gotime/65",
+    "link": "https://cdn.changelog.com/uploads/gotime/65/go-time-65.mp3"
+  },
+  {
+    "title": "InfluxDB & IoT Data",
+    "url": "https://changelog.com/gotime/64",
+    "link": "https://cdn.changelog.com/uploads/gotime/64/go-time-64.mp3"
+  },
+  {
+    "title": "Kubernetes and Virtual Kubelet",
+    "url": "https://changelog.com/gotime/63",
+    "link": "https://cdn.changelog.com/uploads/gotime/63/go-time-63.mp3"
+  },
+  {
+    "title": "Building Blocks with Jeff Lindsay",
+    "url": "https://changelog.com/gotime/62",
+    "link": "https://cdn.changelog.com/uploads/gotime/62/go-time-62.mp3"
+  },
+  {
+    "title": "Loggregator, gRPC, and Diodes with Jason Keene & Andrew Poydence",
+    "url": "https://changelog.com/gotime/61",
+    "link": "https://cdn.changelog.com/uploads/gotime/61/go-time-61.mp3"
+  },
+  {
+    "title": "Why WADL when you can Swagger?",
+    "url": "https://changelog.com/gotime/60",
+    "link": "https://cdn.changelog.com/uploads/gotime/60/go-time-60.mp3"
+  },
+  {
+    "title": "Improved Improved Improved (i3) with Michael Stapelberg",
+    "url": "https://changelog.com/gotime/59",
+    "link": "https://cdn.changelog.com/uploads/gotime/59/go-time-59.mp3"
+  },
+  {
+    "title": "Full-time Open Source with Dmitri Shuralyov",
+    "url": "https://changelog.com/gotime/58",
+    "link": "https://cdn.changelog.com/uploads/gotime/58/go-time-58.mp3"
+  },
+  {
+    "title": "Presenting a Pragmatic Perspective with Cindy Sridharan",
+    "url": "https://changelog.com/gotime/57",
+    "link": "https://cdn.changelog.com/uploads/gotime/57/go-time-57.mp3"
+  },
+  {
+    "title": "Container Security and Demystifying Complexity with Liz Rice",
+    "url": "https://changelog.com/gotime/56",
+    "link": "https://cdn.changelog.com/uploads/gotime/56/go-time-56.mp3"
+  },
+  {
+    "title": "Dep, Cross-platform, and Getting Started with Carolyn Van Slyck",
+    "url": "https://changelog.com/gotime/55",
+    "link": "https://cdn.changelog.com/uploads/gotime/55/go-time-55.mp3"
+  },
+  {
+    "title": "Go at Walmart (and Scale) with Chase Adams",
+    "url": "https://changelog.com/gotime/54",
+    "link": "https://cdn.changelog.com/uploads/gotime/54/go-time-54.mp3"
+  },
+  {
+    "title": "GopherCon 2017: A Retrospective",
+    "url": "https://changelog.com/gotime/53",
+    "link": "https://cdn.changelog.com/uploads/gotime/53/go-time-53.mp3"
+  },
+  {
+    "title": "All About The Go Compiler with David Chase",
+    "url": "https://changelog.com/gotime/52",
+    "link": "https://cdn.changelog.com/uploads/gotime/52/go-time-52.mp3"
+  },
+  {
+    "title": "Infosec Research and App Security with Aaron Hnatiw",
+    "url": "https://changelog.com/gotime/51",
+    "link": "https://cdn.changelog.com/uploads/gotime/51/go-time-51.mp3"
+  },
+  {
+    "title": "Bringing Kubernetes to Azure with Kris Nova",
+    "url": "https://changelog.com/gotime/50",
+    "link": "https://cdn.changelog.com/uploads/gotime/50/go-time-50.mp3"
+  },
+  {
+    "title": "Adventures in VS Code with Ramya Rao",
+    "url": "https://changelog.com/gotime/49",
+    "link": "https://cdn.changelog.com/uploads/gotime/49/go-time-49.mp3"
+  },
+  {
+    "title": "Restic and Backups (Done Right) with Alexander Neumann",
+    "url": "https://changelog.com/gotime/48",
+    "link": "https://cdn.changelog.com/uploads/gotime/48/go-time-48.mp3"
+  },
+  {
+    "title": "Docker, Moby, and Containers with Solomon Hykes",
+    "url": "https://changelog.com/gotime/47",
+    "link": "https://cdn.changelog.com/uploads/gotime/47/go-time-47.mp3"
+  },
+  {
+    "title": "Periph.io, Drivers, and Hardware with Marc-Antoine Ruel",
+    "url": "https://changelog.com/gotime/46",
+    "link": "https://cdn.changelog.com/uploads/gotime/46/go-time-46.mp3"
+  },
+  {
+    "title": "SPECIAL \\u2014 Ask Us Anything!",
+    "url": "https://changelog.com/gotime/45",
+    "link": "https://cdn.changelog.com/uploads/gotime/45/go-time-45.mp3"
+  },
+  {
+    "title": "Go4 and Contributing to Go with Brad Fitzpatrick",
+    "url": "https://changelog.com/gotime/44",
+    "link": "https://cdn.changelog.com/uploads/gotime/44/go-time-44.mp3"
+  },
+  {
+    "title": "Getting Better, Mentoring, and Drawing Gophers with Ashley McNamara",
+    "url": "https://changelog.com/gotime/43",
+    "link": "https://cdn.changelog.com/uploads/gotime/43/go-time-43.mp3"
+  },
+  {
+    "title": "Race detection, firmware, production-grade Go",
+    "url": "https://changelog.com/gotime/42",
+    "link": "https://cdn.changelog.com/uploads/gotime/42/go-time-42.mp3"
+  },
+  {
+    "title": "Distributed Messaging and Network Clients with Wally Quevedo",
+    "url": "https://changelog.com/gotime/41",
+    "link": "https://cdn.changelog.com/uploads/gotime/41/go-time-41.mp3"
+  },
+  {
+    "title": "Game Development and Rebuilding Microservices with Luna Duclos",
+    "url": "https://changelog.com/gotime/40",
+    "link": "https://cdn.changelog.com/uploads/gotime/40/go-time-40.mp3"
+  },
+  {
+    "title": "Splice, Audio, and Compassion with Matt Aimonetti",
+    "url": "https://changelog.com/gotime/39",
+    "link": "https://cdn.changelog.com/uploads/gotime/39/go-time-39.mp3"
+  },
+  {
+    "title": "Go Developer Survey with Steve Francia",
+    "url": "https://changelog.com/gotime/38",
+    "link": "https://cdn.changelog.com/uploads/gotime/38/go-time-38.mp3"
+  },
+  {
+    "title": "Gobot, Hardware, and Gatekeeping with Ron Evans",
+    "url": "https://changelog.com/gotime/37",
+    "link": "https://cdn.changelog.com/uploads/gotime/37/go-time-37.mp3"
+  },
+  {
+    "title": "Dependency Management, Semver, and Community Consensus with Sam Boyer",
+    "url": "https://changelog.com/gotime/36",
+    "link": "https://cdn.changelog.com/uploads/gotime/36/go-time-36.mp3"
+  },
+  {
+    "title": "Honeycomb, Complex Systems, and Saving Sanity with Charity Majors",
+    "url": "https://changelog.com/gotime/35",
+    "link": "https://cdn.changelog.com/uploads/gotime/35/go-time-35.mp3"
+  },
+  {
+    "title": "Pachyderm, Provenance, and Data Lakes with Joe Doliner",
+    "url": "https://changelog.com/gotime/34",
+    "link": "https://cdn.changelog.com/uploads/gotime/34/go-time-34.mp3"
+  },
+  {
+    "title": "Gopherize.me, GitHub Stars and BitBar with Mat Ryer",
+    "url": "https://changelog.com/gotime/33",
+    "link": "https://cdn.changelog.com/uploads/gotime/33/go-time-33.mp3"
+  },
+  {
+    "title": "Hellogopher, whosthere? with Filippo Valsorda",
+    "url": "https://changelog.com/gotime/32",
+    "link": "https://cdn.changelog.com/uploads/gotime/32/go-time-32.mp3"
+  },
+  {
+    "title": "Go, Jocko, and Kafka with Travis Jeffery",
+    "url": "https://changelog.com/gotime/31",
+    "link": "https://cdn.changelog.com/uploads/gotime/31/go-time-31.mp3"
+  },
+  {
+    "title": "Discussing Imposter Syndrome with Johnny Boursiquot and Bill Kennedy",
+    "url": "https://changelog.com/gotime/30",
+    "link": "https://cdn.changelog.com/uploads/gotime/30/go-time-30.mp3"
+  },
+  {
+    "title": "Go and Buffalo Live from Dunkin' Donuts with Mark Bates",
+    "url": "https://changelog.com/gotime/29",
+    "link": "https://cdn.changelog.com/uploads/gotime/29/go-time-29.mp3"
+  },
+  {
+    "title": "Creating a Programming Language with Thorsten Ball",
+    "url": "https://changelog.com/gotime/28",
+    "link": "https://cdn.changelog.com/uploads/gotime/28/go-time-28.mp3"
+  },
+  {
+    "title": "The Go Compiler and Go 1.8 with Keith Randall",
+    "url": "https://changelog.com/gotime/27",
+    "link": "https://cdn.changelog.com/uploads/gotime/27/go-time-27.mp3"
+  },
+  {
+    "title": "Teaching and Learning Go with Todd McLeod",
+    "url": "https://changelog.com/gotime/26",
+    "link": "https://cdn.changelog.com/uploads/gotime/26/go-time-26.mp3"
+  },
+  {
+    "title": "Go Kit, Dependency Management & Microservices with Peter Bourgon",
+    "url": "https://changelog.com/gotime/25",
+    "link": "https://cdn.changelog.com/uploads/gotime/25/go-time-25.mp3"
+  },
+  {
+    "title": "Juju, Jujucharms, and Gorram with Nate Finch",
+    "url": "https://changelog.com/gotime/24",
+    "link": "https://cdn.changelog.com/uploads/gotime/24/go-time-24.mp3"
+  },
+  {
+    "title": "Open Sourcing Chain's Developer Platform with Tess Rinearson",
+    "url": "https://changelog.com/gotime/23",
+    "link": "https://cdn.changelog.com/uploads/gotime/23/go-time-23.mp3"
+  },
+  {
+    "title": "Go Work Groups and Hardware Projects with Jaana B. Dogan",
+    "url": "https://changelog.com/gotime/22",
+    "link": "https://cdn.changelog.com/uploads/gotime/22/go-time-22.mp3"
+  },
+  {
+    "title": "Building a Startup on Go with Blake Mizerany",
+    "url": "https://changelog.com/gotime/21",
+    "link": "https://cdn.changelog.com/uploads/gotime/21/go-time-21.mp3"
+  },
+  {
+    "title": "Kubernetes, Containers, and Go with Kelsey Hightower",
+    "url": "https://changelog.com/gotime/20",
+    "link": "https://cdn.changelog.com/uploads/gotime/20/go-time-20.mp3"
+  },
+  {
+    "title": "Programming Practices, Exercism, and Open Source with Katrina Owen",
+    "url": "https://changelog.com/gotime/19",
+    "link": "https://cdn.changelog.com/uploads/gotime/19/go-time-19.mp3"
+  },
+  {
+    "title": "Aaron Schlesinger on Go in 5 Minutes and Design Patterns",
+    "url": "https://changelog.com/gotime/18",
+    "link": "https://cdn.changelog.com/uploads/gotime/18/go-time-18.mp3"
+  },
+  {
+    "title": "Monorepos, Mentoring, and Testing with Bryan Liles",
+    "url": "https://changelog.com/gotime/17",
+    "link": "https://cdn.changelog.com/uploads/gotime/17/go-time-17.mp3"
+  },
+  {
+    "title": "SOLID Go Design with Dave Cheney",
+    "url": "https://changelog.com/gotime/16",
+    "link": "https://cdn.changelog.com/uploads/gotime/16/go-time-16.mp3"
+  },
+  {
+    "title": "The Go Standard Library with Ben Johnson",
+    "url": "https://changelog.com/gotime/15",
+    "link": "https://cdn.changelog.com/uploads/gotime/15/go-time-15.mp3"
+  },
+  {
+    "title": "Matt Holt on CaddyServer, the ACME Protocol, and TLS",
+    "url": "https://changelog.com/gotime/14",
+    "link": "https://cdn.changelog.com/uploads/gotime/14/go-time-14.mp3"
+  },
+  {
+    "title": "Francesc Campoy on GopherCon and Understanding nil",
+    "url": "https://changelog.com/gotime/13",
+    "link": "https://cdn.changelog.com/uploads/gotime/13/go-time-13.mp3"
+  },
+  {
+    "title": "Beyang Liu on Go at Sourcegraph and Writing Better Code",
+    "url": "https://changelog.com/gotime/12",
+    "link": "https://cdn.changelog.com/uploads/gotime/12/go-time-12.mp3"
+  },
+  {
+    "title": "Jessie Frazelle on Maintaining Open Source, Docker, and dotfiles",
+    "url": "https://changelog.com/gotime/11",
+    "link": "https://cdn.changelog.com/uploads/gotime/11/go-time-11.mp3"
+  },
+  {
+    "title": "State of Go Survey and Go at Heroku with Ed Muller",
+    "url": "https://changelog.com/gotime/10",
+    "link": "https://cdn.changelog.com/uploads/gotime/10/go-time-10.mp3"
+  },
+  {
+    "title": "Scott Mansfield on Go at Netflix",
+    "url": "https://changelog.com/gotime/9",
+    "link": "https://cdn.changelog.com/uploads/gotime/9/go-time-9.mp3"
+  },
+  {
+    "title": "Asim Aslam on Micro, the Go Microservice Toolkit",
+    "url": "https://changelog.com/gotime/8",
+    "link": "https://cdn.changelog.com/uploads/gotime/8/go-time-8.mp3"
+  },
+  {
+    "title": "Rapha\\u00ebl Simon on goa, the Framework for Building Microservices",
+    "url": "https://changelog.com/gotime/7",
+    "link": "https://cdn.changelog.com/uploads/gotime/7/go-time-7.mp3"
+  },
+  {
+    "title": "Bill Kennedy on Mechanical Sympathy",
+    "url": "https://changelog.com/gotime/6",
+    "link": "https://cdn.changelog.com/uploads/gotime/6/go-time-6.mp3"
+  },
+  {
+    "title": "Sarah Adams on Test2Doc and Women Who Go",
+    "url": "https://changelog.com/gotime/5",
+    "link": "https://cdn.changelog.com/uploads/gotime/5/go-time-5.mp3"
+  },
+  {
+    "title": "Go and Data Science with Daniel Whitenack",
+    "url": "https://changelog.com/gotime/4",
+    "link": "https://cdn.changelog.com/uploads/gotime/4/go-time-4.mp3"
+  },
+  {
+    "title": "Early Go Adoption with Travis Reeder",
+    "url": "https://changelog.com/gotime/3",
+    "link": "https://cdn.changelog.com/uploads/gotime/3/go-time-3.mp3"
+  },
+  {
+    "title": "Go Community Discussions with Cory LaNou",
+    "url": "https://changelog.com/gotime/2",
+    "link": "https://cdn.changelog.com/uploads/gotime/2/go-time-2.mp3"
+  },
+  {
+    "title": "It's Go Time!",
+    "url": "https://changelog.com/gotime/1",
+    "link": "https://cdn.changelog.com/uploads/gotime/1/go-time-1.mp3"
+  },
+  {
+    "title": "Building a Startup on Go with Blake Mizerany",
+    "url": "https://changelog.com/gotime/21",
+    "link": "https://cdn.changelog.com/uploads/gotime/21/go-time-21.mp3"
+  },
+  {
+    "title": "Kubernetes, Containers, and Go with Kelsey Hightower",
+    "url": "https://changelog.com/gotime/20",
+    "link": "https://cdn.changelog.com/uploads/gotime/20/go-time-20.mp3"
+  },
+  {
+    "title": "Programming Practices, Exercism, and Open Source with Katrina Owen",
+    "url": "https://changelog.com/gotime/19",
+    "link": "https://cdn.changelog.com/uploads/gotime/19/go-time-19.mp3"
+  },
+  {
+    "title": "Aaron Schlesinger on Go in 5 Minutes and Design Patterns",
+    "url": "https://changelog.com/gotime/18",
+    "link": "https://cdn.changelog.com/uploads/gotime/18/go-time-18.mp3"
+  },
+  {
+    "title": "Monorepos, Mentoring, and Testing with Bryan Liles",
+    "url": "https://changelog.com/gotime/17",
+    "link": "https://cdn.changelog.com/uploads/gotime/17/go-time-17.mp3"
+  },
+  {
+    "title": "SOLID Go Design with Dave Cheney",
+    "url": "https://changelog.com/gotime/16",
+    "link": "https://cdn.changelog.com/uploads/gotime/16/go-time-16.mp3"
+  },
+  {
+    "title": "The Go Standard Library with Ben Johnson",
+    "url": "https://changelog.com/gotime/15",
+    "link": "https://cdn.changelog.com/uploads/gotime/15/go-time-15.mp3"
+  },
+  {
+    "title": "Matt Holt on CaddyServer, the ACME Protocol, and TLS",
+    "url": "https://changelog.com/gotime/14",
+    "link": "https://cdn.changelog.com/uploads/gotime/14/go-time-14.mp3"
+  },
+  {
+    "title": "Francesc Campoy on GopherCon and Understanding nil",
+    "url": "https://changelog.com/gotime/13",
+    "link": "https://cdn.changelog.com/uploads/gotime/13/go-time-13.mp3"
+  },
+  {
+    "title": "Beyang Liu on Go at Sourcegraph and Writing Better Code",
+    "url": "https://changelog.com/gotime/12",
+    "link": "https://cdn.changelog.com/uploads/gotime/12/go-time-12.mp3"
+  },
+  {
+    "title": "Jessie Frazelle on Maintaining Open Source, Docker, and dotfiles",
+    "url": "https://changelog.com/gotime/11",
+    "link": "https://cdn.changelog.com/uploads/gotime/11/go-time-11.mp3"
+  },
+  {
+    "title": "State of Go Survey and Go at Heroku with Ed Muller",
+    "url": "https://changelog.com/gotime/10",
+    "link": "https://cdn.changelog.com/uploads/gotime/10/go-time-10.mp3"
+  },
+  {
+    "title": "Scott Mansfield on Go at Netflix",
+    "url": "https://changelog.com/gotime/9",
+    "link": "https://cdn.changelog.com/uploads/gotime/9/go-time-9.mp3"
+  },
+  {
+    "title": "Asim Aslam on Micro, the Go Microservice Toolkit",
+    "url": "https://changelog.com/gotime/8",
+    "link": "https://cdn.changelog.com/uploads/gotime/8/go-time-8.mp3"
+  },
+  {
+    "title": "Rapha\\u00ebl Simon on goa, the Framework for Building Microservices",
+    "url": "https://changelog.com/gotime/7",
+    "link": "https://cdn.changelog.com/uploads/gotime/7/go-time-7.mp3"
+  },
+  {
+    "title": "Bill Kennedy on Mechanical Sympathy",
+    "url": "https://changelog.com/gotime/6",
+    "link": "https://cdn.changelog.com/uploads/gotime/6/go-time-6.mp3"
+  },
+  {
+    "title": "Sarah Adams on Test2Doc and Women Who Go",
+    "url": "https://changelog.com/gotime/5",
+    "link": "https://cdn.changelog.com/uploads/gotime/5/go-time-5.mp3"
+  },
+  {
+    "title": "Go and Data Science with Daniel Whitenack",
+    "url": "https://changelog.com/gotime/4",
+    "link": "https://cdn.changelog.com/uploads/gotime/4/go-time-4.mp3"
+  },
+  {
+    "title": "Early Go Adoption with Travis Reeder",
+    "url": "https://changelog.com/gotime/3",
+    "link": "https://cdn.changelog.com/uploads/gotime/3/go-time-3.mp3"
+  },
+  {
+    "title": "Go Community Discussions with Cory LaNou",
+    "url": "https://changelog.com/gotime/2",
+    "link": "https://cdn.changelog.com/uploads/gotime/2/go-time-2.mp3"
+  },
+  {
+    "title": "It's Go Time!",
+    "url": "https://changelog.com/gotime/1",
+    "link": "https://cdn.changelog.com/uploads/gotime/1/go-time-1.mp3"
+  }
+]
